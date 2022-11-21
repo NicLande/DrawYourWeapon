@@ -7,7 +7,7 @@
 ## Table of Contents
 
 * Introduction
-    * Chapter 1: Overview
+    * [Chapter 1: Overview](Introduction/Overview.md)
         * The Players
         * The Dealer
         * The Game
@@ -17,7 +17,7 @@
         * The Story
         * Example of Play
 * Part 1 - Getting Started
-    * Chapter 2: Character Creation
+    * [Chapter 2: Character Creation](PartOne/CharacterCreation.md)
         * Guide
         * Attributes
         * Style

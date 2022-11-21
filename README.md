@@ -1,1 +1,1 @@
-"# Draw Your Weapon" 
+# Draw Your Weapon
