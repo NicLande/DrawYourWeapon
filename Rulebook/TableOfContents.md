@@ -40,14 +40,14 @@
         * Complications
         * Cataclysms
 * Part 3 - Combat
-    * Chapter 7: Turn Order
+    * [Chapter 7: Turn Order](PartThree/TurnOrder.md)
         * Start of Combat
         * Initiative
         * Your Turn
-    * Chapter 8: The Battlefield
+    * [Chapter 8: The Battlefield](ParthThree/TheBattlefield.md)
         * The Environment
         * Conditions
-    * Chapter 9: Damage
+    * [Chapter 9: Damage](PartThree/Damage.md)
         * Defenses
         * Dying
 * Appendices
