@@ -51,8 +51,8 @@
         * Defenses
         * Dying
 * Appendices
-    * A - Features
-    * B - Equipment
-    * C - Conditions
+    * [A - Features](Appendices/FeaturesList.md)
+    * [B - Equipment](Appendices/EquipmentLists.md)
+    * [C - Conditions](Appendices/ConditionsList.md)
 
 
