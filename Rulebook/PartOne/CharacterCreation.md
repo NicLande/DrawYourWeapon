@@ -1,4 +1,5 @@
 ## Chapter 2: Character Creation
+---
 
 ## Guide
 After your group has decided when and where to play and who will be the Dealer you all must work together to create a party of characters to adventure together. This process should be collaborative, with many aspects involving input from the rest of the table, but your character is yours to mold and shape. You make the decisions on how they are built and what their path will be. In order to create your character you will select several aspects of them from lists and others will be purchased with Build. At the end of this chapter you should have the full understanding of all the aspects which go into creating a character in _DYW_.

@@ -19,16 +19,16 @@
         * Features
         * Relationships
         * Inventory
-    * Chapter 3: Character Advancement 
+    * [Chapter 3: Character Advancement](PartOne/CharacterAdvancement.md) 
         * Experience
         * Leveling Up
 * Part 2 - Gameplay
-    * Chapter 4: Play Area
+    * [Chapter 4: Play Area](PartTwo/PlayArea.md)
         * The Library
         * Your Hand
         * The Pile
         * The Void
-    * Chapter 5: Actions
+    * [Chapter 5: Actions](PartTwo/Actions.md)
         * Tests
         * Attacks
         * Moving
@@ -36,7 +36,7 @@
         * Use Ability
         * Breathers
         * Resting
-    * Chapter 6: Complications and Cataclysms
+    * [Chapter 6: Complications and Cataclysms](PartTwo/ComplicationsAndCataclysms.md)
         * Complications
         * Cataclysms
 * Part 3 - Combat

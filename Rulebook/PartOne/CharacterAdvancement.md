@@ -1,4 +1,5 @@
-## Character Advancement
+## Chapter 3: Character Advancement
+---
 
 ## Experience
 As your character embarks on their adventure they will gain more and more power and knowledge. This experience of growing and changing as you embark on your hero’s journey is represented in _DYW_ through an accumulation and expenditure of Experience. You should already have some experience yourself with the function of Experience through character creation. Much like when you created your character you may spend Experience to gain new Features or increase your Attributes. In addition, as you spend more and more Experience you will increase your character’s Level and become broadly stronger.
