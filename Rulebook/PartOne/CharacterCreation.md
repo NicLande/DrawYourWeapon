@@ -1,7 +1,7 @@
 ## Chapter 2: Character Creation
 
 ## Guide
-After your group has decided when and where to play and who will be the Dealer you all must work together to create a party of characters to adventure together. This process should be collaborative, with many aspects involving input from the rest of the table, but your character is yours to mold and shape. You make the decisions on how they are built and what their path will be. In order to create your character you will select several aspects of them from lists and others will be purchased with Build. At the end of this chapter you should have the full understanding of all the aspects which go into creating a character in DYW.
+After your group has decided when and where to play and who will be the Dealer you all must work together to create a party of characters to adventure together. This process should be collaborative, with many aspects involving input from the rest of the table, but your character is yours to mold and shape. You make the decisions on how they are built and what their path will be. In order to create your character you will select several aspects of them from lists and others will be purchased with Build. At the end of this chapter you should have the full understanding of all the aspects which go into creating a character in _DYW_.
 
 **Build:** You begin the character creation process with 12 Build, which is used as a currency in order to create your character. Build is spent on your Attributes, Features, and Equipment with any leftover being converted into Experience at the end of the process.
 
@@ -29,7 +29,7 @@ After your group has decided when and where to play and who will be the Dealer y
 **Finish Up:** If you have any Build remaining at the end of the character creation process you may go back to earlier steps and spend it, or save it for later where it is converted into Experience to spend at a later time.
 
 ## Attributes
-As a Player Character in Draw Your Weapon your ability to perform certain kinds of actions are defined by certain Attributes your character has. These Attributes roughly determine your affinity and skill with certain types of actions. The five Attributes are Might, Endurance, Finesse, Intelligence, Wits, and Charm. For Player Characters these abilities may not be lower than 0 (slightly below average for a normal person) or higher than 5 (beyond the peak of an ordinary person).
+As a Player Character in _Draw Your Weapon_ your ability to perform certain kinds of actions are defined by certain Attributes your character has. These Attributes roughly determine your affinity and skill with certain types of actions. The five Attributes are Might, Endurance, Finesse, Intelligence, Wits, and Charm. For Player Characters these abilities may not be lower than 0 (slightly below average for a normal person) or higher than 5 (beyond the peak of an ordinary person).
 
 ### Derived Stats
 Each Attribute has a Stat linked to it which derives its value from the value of the attribute. Each of these has a function in the game and serves multiple functions. Each of these Stats basic function and value are explained along with their linked Attribute.
@@ -52,7 +52,7 @@ Your Current Guard begins at 0. Your Guard Refresh is defined as 1+(Level Bonus)
 Endurance measures a Player Character’s health and wellbeing. The constitution, stamina, and grit of a character relies on their Endurance Score. Endurance is most often associated with Clubs and Hearts.
 
 ##### HP
-HP is the Stat linked with Endurance. It represents the amount of damage your character can withstand before collapsing. HP is a resource which can be lost and gained throughout playing DYW. You gain no innate benefits from having it and there are no penalties when losing it until you reach 0. When you run out of HP your character will begin to die. This process is outlined in the Combat chapter. You cannot go above your Maximum HP.  
+HP is the Stat linked with Endurance. It represents the amount of damage your character can withstand before collapsing. HP is a resource which can be lost and gained throughout playing _DYW_. You gain no innate benefits from having it and there are no penalties when losing it until you reach 0. When you run out of HP your character will begin to die. This process is outlined in the Combat chapter. You cannot go above your Maximum HP.  
 Your maximum HP is defined at 5+(Your Endurance*Your Level)+(Level Bonus)+(Other Bonuses). You begin play with Current HP equal to your Maximum.
 
 #### Finesse
@@ -139,7 +139,7 @@ After determining your character’s Attributes you may select their Style from 
 
 
 ## Signature Abilities
-Every Player Character in DYW has a diverse collection of skills, abilities, and qualities. However, in order to help realize certain archetypal characters you will select a Signature Ability which grants you an assortment of unique abilities and grants you Features you would otherwise need to purchase during character creation or with Experience later in the game.
+Every Player Character in _DYW_  has a diverse collection of skills, abilities, and qualities. However, in order to help realize certain archetypal characters you will select a Signature Ability which grants you an assortment of unique abilities and grants you Features you would otherwise need to purchase during character creation or with Experience later in the game.
 
 ### Initial Benefits
 When you create a character you must select a Signature Ability from the list below. Initially this will grant you a few core Features and grant you certain benefits unique to your Signature Ability. These Features will help to define your character’s core play style. Certain Signature Abilities also grant you the option to select Equipment or Features with certain restrictions.
@@ -298,771 +298,343 @@ _Features:_ Patch Up
 
 **Pyromancer**
 
-1st Level:
-    Passive Bonus: Whenever you deal [Sun] damage to a creature you may increase the damage by your level if you have a Full House in hand    
-Features: Basic Pyromancy, Sun Adept
-3rd Level: 
-    Features: Adept Pyromancy
-5th Level:
-    Features: Sun Mastery
-7th Level: 
-    Features: Advanced Pyromancy
-10th Level:
-    Features: Solar Supremacy
-14th Level:
-    Passive Bonus: You may apply the bonus damage from this Signature Ability to any [Sun] damage within your line of sight rather than just damage dealt by yourself.
+**1st Level:**  
+    _Passive Bonus:_ Whenever you deal [Sun] damage to a creature you may increase the damage by your level if you have a Full House in hand     
+_Features:_ Basic Pyromancy, Sun Adept  
+**3rd Level:**   
+    _Features:_ Adept Pyromancy  
+**5th Level:**  
+    _Features:_ Sun Mastery  
+**7th Level:**  
+    _Features:_ Advanced Pyromancy  
+**10th Level:**  
+    _Features:_ Solar Supremacy  
+**14th Level:**  
+    _Passive Bonus:_ You may apply the bonus damage from this Signature Ability to any [Sun] damage within your line of sight rather than just damage dealt by yourself.  
 
 **Scoundrel**
 
-1st Level:
-    Passive Bonus: Whenever you make an Attack against a creature if there is another creature hostile to your target within 1 unit of them you may increase the damage you deal by twice the number of Odd Cards in your Hand. You may only do this once per Round.    
-Features: Cheap Shot
-Equipment: Dagger
-3rd Level: 
-    Features: Deft Striker
-5th Level:
-    Features: Stealthy
-7th Level: 
-    Features: Combo Striker
-10th Level:
-    Features: Precision Shot
-14th Level:
-    Passive Bonus: Whenever you make an Attack against a creature who has no Current Guard you may execute them. After dealing damage you may discard any number of Cards from your Hand. The target must then make a Surprise Endurance Test [Hearts]. If they fail they immediately gain the Dying condition.
+**1st Level:**  
+    _Passive Bonus:_ Whenever you make an Attack against a creature if there is another creature hostile to your target within 1 unit of them you may increase the damage you deal by twice the number of Odd Cards in your Hand. You may only do this once per Round.      
+_Features:_ Cheap Shot  
+_Equipment:_ Dagger  
+**3rd Level:**   
+    _Features:_ Deft Striker  
+**5th Level:**  
+    _Features:_ Stealthy  
+**7th Level:**   
+    _Features:_ Combo Striker  
+**10th Level:**  
+    _Features:_ Precision Shot  
+**14th Level:**  
+    _Passive Bonus:_ Whenever you make an Attack against a creature who has no Current Guard you may execute them. After dealing damage you may discard any number of Cards from your Hand. The target must then make a Surprise Endurance Test [Hearts]. If they fail they immediately gain the Dying condition.  
 
 **Umbramancer**
 
-1st Level:
-    Passive Bonus: Whenever a Card is Played to the Pile by an effect you can see you can cause that Card to instead go directly to the Void by Playing any Card from your Hand. When you do so the ability activates as normal, and fully resolves before the Card is Moved.    
-Features: Basic Umbramancy, Void Affinity
-3rd Level: 
-    Features: Adept Umbramancy
-5th Level:
-    Features: Void Mastery
-7th Level: 
-    Features: Advanced Umbramancy
-10th Level:
-    Features: Shadow Supremacy
-14th Level:
-    Passive Bonus: Whenever your party Rests you may choose to Draw any of your new Cards from the Void rather than the Library.
-
-
-
-
-
-Features
-    Every character has Features which represent their unique qualities and affinities in ways Attributes and a Style alone cannot. Features can affect both the world of the game and the mechanics of your character. They may allow you to take a special action, modify an existing action, grant you a passive bonus, or more.
-
-
-Acquiring Features
-    In order to acquire a Feature you must meet two conditions. Firstly, you must meet all Prerequisites listed on the description of the Feature. Then you must spend an amount of Build equal to the Value of the Feature. You may then add the Feature to your character sheet.
-    If a Feature has a prerequisite you do not yet meet but can acquire through character creation you may acquire the Feature so long as you meet the prerequisite after completing character creation.
-
-Tags
-    Each Feature may have tags. These tags also apply to any effects or damage created through the ability. For instance the Basic Pyromancy Feature grants the ability to make a special attack. The damage dealt by this attack shares all of the tags of the Feature.
-    Most of these tags have no effect on their own, but may be modified by other Features from yourself or others. Most commonly any Resistance from a target will apply based on the tags of your Features. The following tags are exceptions and impose special conditions on the Features to which they are attached.
-
-Attack: This Feature grants you an alternative method of Attacking or modifies an existing Attack. Whenever another piece of gamer text refers to an Attack it applies both to the default Attack options and to your [Attack] Features.
-
-Biological: These Features are innate to the biology of your character. As such it is rare for them to manifest through gaining Experience. You may select these Features only during character creation unless you have the Inhuman Signature Ability or explicit permission from the Dealer.
-
-Continuous: You may only have a single [Continuous] Feature active at a time. If you use a second one while another is active the effect of the first immediately ends.
-
-
-Name
-Effect
-Prerequisites
-Tags
-Value
-Aeromancy Adept
-Increases your skill with sky magic. Requires two Spades Cards in Hand
-Aeromancy Novice
-Attack, Magical, Sky
-4
-Aeromancy Master
-Increases your skill with sky magic. Requires three Spades Cards in Hand.
-Aeromancy Adept
-Magical, Sky
-4
-Aeromancy Novice
-Requires a Spades Card in Hand. Grants you basic sky magic
-Sky Affinity
-Attack, Magical, Sky
-4
-Alchemy Adept
-Allows you to use the Basic Craft Feature to craft one of four potions based on the Suit of the Played Card
-Basic Craft
-Alchemy
-4
-Armor Adept
-While fully equipped with armor gain +1/+1 Guard per piece of armor
-
-
-Combat
-2
-Balanced
-Reduces debuffs from terrain. You more easily resist effects which knock you off balance
-
-
-
-
-1
-Basic Craft
-You may use an Action during a Breather to spend Reserve and craft a Key Item to help on a later Test
-Finesse 1+
-Skill
-4
-Bedside Care
-Heal characters you Trade with during a Breather
-Charm 1+
-Healing, Skill
-4
-Cheap Shot
-Discard a Card to deal damage based on the top Card of the Pile. Bonus if Discarded Card was an Ace
-Finesse 3+
-Attack
-4
-Combat Regeneration
-Regenerate HP by Playing a Card
-Minor Regeneration
-Biological, Healing
-4
-Combo Striker
-Deal extra damage if the Card you Play for your Attack matches the Card below it
-Finesse 3+
-Attack
-5
-Curse
-Upgrade and modify Hex’s effect
-Hex
-Upgrade, Magical, Void
-2
-Darkvision
-See better in the dark
-Nocturnal
-Biological
-1
-Deft Striker
-Allows you to add Finesse to your attack damage in certain cases
-Finesse 1+
-Skill
-3
-Dual Wielder Adept
-Allows you to Attack twice on your turn rather than once if you use two weapons
-
-
-Combat
-4
-Earth Affinity
-Gain a magical affinity for the element of earth
-
-
-Magical, Earth
-3
-Earth Mastery
-Strengthen your affinity for the earth
-Earth Affinity
-Magical, Earth
-4
-Explosives Adept
-Deal bonus damage to one creature in a range of your explosive weapons
-
-
-Combat
-1
-Explosives Expert
-Deal bonus damage to all creatures in range of your explosive weapons
-Explosives Adept
-Combat
-2
-Fangs
-Grants you a bite attack with a low range
-
-
-Combat, Biological
-3
-Finned
-Allows you to move easily through the water
-
-
-Biological, Sea
-2
-Fleet Feet
-Increase your Speed while above half health
-
-
-
-
-1
-Full Treatment
-When you heal a creature you can cure certain Conditions affecting them
-Any [Healing] Feature
-Healing
-4
-Gather
-You may regain Reserve during a Breather
-
-
-Skill
-2
-Geomancy Adept
-Increases your skill with earth magic. Requires two Club Cards in Hand
-Geomancy Novice
-Attack, Magical, Earth
-4
-Geomancy Master
-Increases your skill with earth magic. Requires three Club Cards in Hand.
-Geomancy Adept
-Magical, Earth
-4
-Geomancy Novice
-Requires a Club Card in Hand. Grants you basic earth magic
-Earth Affinity
-Magical, Earth
-4
-Great Weapon Expert
-Increases the Value range of Great Weapons with which you have the Weapon Adept Feature
-Weapon Adept
-Combat
-2
-Greater Healer
-Enhances your healing Features
-Any Feature which restores HP to a Creature
-Upgrade, Magical, Healing
-2
-Greater Regeneration
-Enhances Features which heal yourself
-Minor Regeneration
-Biological, Healing
-3
-Gunner
-Avoid spending Reserve when using an [Ammunition] weapon by playing Odd Cards
-Weapon Adept [Hearts]
-Combat
-2
-Haggle
-Discard a Card from the Dealer’s Hand while haggling with an NPC
-Charm 2+
-Skill, Social
-3
-Heavy Armor Expert
-Gain +0/+1 Guard while wearing a full set of [Heavy] armor every few levels
-Armor Adept
-Combat
-4
-Hemorrhaging Bite
-Inflict Bleed on targets when using your natural attack
-Fangs or Maw
-Attack, Biological
-3
-Hex
-While there is a Six in the Void you can weaken all Creatures within a radius of yourself
-Umbramancy Novice
-Magical, Void, Continuous
-2
-Hydromancy Adept
-Increases your skill with sea magic. Requires two Heart Cards in Hand
-Hydromancy Novice
-Attack, Magical, Sea
-4
-Hydromancy Master
-Increases your skill with sea magic. Requires three Heart Cards in Hand.
-Hydromancy Adept
-Magical, Sea
-4
-Hydromancy Novice
-Requires a Heart Card in Hand. Grants you basic sea magic
-Sea Affinity
-Magical, Sea
-4
-Inspiring Presence
-Inspire those around you, allowing them to use Card from your Hand
-Charm 3+
-Skill, Social
-3
-Intimidating
-Add your Might to certain social Tests by spending Clout
-
-
-Social
-3
-Invigorating Shot
-When you heal a creature you may increase the healing and provide the target with extra benefits at the cost of hurting them at the end of their turn
-Any [Healing] Feature, Level 10+
-Healing
-6
-Knight's Guard
-If you have a Facecard in hand it is easier to restore your Guard when you have the broken condition
-
-
-Combat, Skill
-2
-Light Armor Expert
-Gain +1/+0 Guard while wearing a full set of [Light] armor every few levels
-Armor Adept
-Combat
-4
-Loner
-When making a Test while alone you gain a benefit
-
-
-
-
-2
-Maw
-Gain a special attack with a Value range of 5-8 and a suit of Clubs.
-
-
-Combat, Biological
-3
-Minor Regeneration
-Heal as an Action during a Breather by Playing a Card
-
-
-Biological
-2
-Monstrous
-Gain resistance to [Weapon] damage while you have a Hearts Card in Hand
-
-
-Biological
-3
-Nocturnal
-You gain a bonus to Tests at night and negative to Tests during the day
-
-
-Biological
-2
-Opportunist
-Attack creatures if you’re wielding a melee weapon when they move through your range
-
-
-Attack
-4
-Parry
-If a creature fails to break your Guard with an Attack you can knock them over or push them back
-Might 2+
-Skill
-4
-Patch Up
-Heal another creature if you have a Hearts Card in Hand and they Play a Card
-
-
-Skill, Healing
-3
-Precision Shot
-When you Attack if your Card matches the Card below you may combine their Values for the damage
-Combo Striker, Finesse 4+
-Skill, Attack
-4
-Pyromancy Adept
-Increases your skill with sun magic. Requires two Diamond Cards in Hand
-Pyromancy Novice
-Attack, Magical, Sun
-4
-Pyromancy Master
-Increases your skill with sun magic. Requires three Diamond Cards in Hand.
-Pyromancy Adept
-Attack, Magical, Sun
-4
-Pyromancy Novice
-Requires a Diamond Card in Hand. Grants you basic sun magic
-Sun Affinity
-Magical, Sun
-4
-Quick Alchemy
-Expend Reserve to make potions as an Action
-Alchemy Adept
-Alchemy
-3
-Quick Draw
-Make an Attack at the beginning of Initiative. Lower the Initiative of your target(s)
-Wits 1+, Finesse 1+
-Attack
-2
-Resourceful
-When refreshing your hand after a Rest you may take one of the Cards from the Pile
-
-
-
-
-3
-Scaled
-Gain +1/+1 Guard every few levels
-
-
-Biological
-2
-Sea Affinity
-Gain a magical affinity for the element of Sea
-
-
-Magical, Sea
-3
-Sea Legs
-You are stable on vehicles and moving terrain
-Balanced
-Combat, Sea
-1
-Sea Mastery
-Strengthen your affinity for the Sea
-Sea Affinity
-Magical, Sea
-4
-Sea Supremacy
-Maximize your affinity for the Sea
-Sea Mastery
-Magical, Sea
-5
-Shadow Supremacy
-Maximize your affinity for the Void
-Void Mastery
-Magical, Void
-5
-Shield Adept
-While wielding a shield raise gain +0/+1 Guard
-
-
-Combat
-2
-Shield Bash
-You may treat equipped Shields as a Clubs Weapon
-Shield Adept
-
-
-4
-Shield Master
-While wielding a shield raise gain +1/+0 Guard
-Shield Adept
-Combat
-2
-Shield Toss
-When attacking with Shield Bash you may throw it
-Shield Bash, Thrown Weapon Adept
-
-
-3
-Silver Tongued
-Gain clout when you persuade an NPC using a Test
-
-
-Social
-3
-Sky Affinity
-Gain a magical affinity for the element of Sky
-
-
-Magical, Sky
-3
-Sky Mastery
-Strengthen your affinity for the Sky
-Sky Affinity
-Magical, Sky
-4
-Sleuth
-Reveal the top Card of the Deck and the Dealer’s Hand when you investigate something
-Wits or Intelligence 2+
-Skill
-2
-Solar Supremacy
-Maximize your affinity for Sun
-Sun Master, Level 10
-Magical, Sun
-5
-Solid Stance
-You maintain a stable stance while on solid ground
-Balanced
-Combat, Earth
-2
-Spell Sword
-You can attack twice so long as you are wielding a weapon and one attack is [Magical]
-Any [Magical, Attack] Feature
-Combat, Magical
-4
-Stealthy
-You gain a bonus to hide and to damage if you attack while hidden
-
-
-Void, Combat
-2
-Storm Supremacy
-Maximize your affinity for Sky
-Sky Mastery
-Magical, Sky
-5
-Storyteller
-You may trade more cards when taking the Trade Action during a Breather
-Charm 2+
-Skill, Social
-3
-Subtle Caster
-While you have a Pair in Hand you may hide that you are doing magic form onlookers
-Any [Magical] Feature
-Social, Skill, Magical
-3
-Sun Affinity
-You gain an affinity for the element of Sun
-
-
-Magical, Sun
-3
-Sun Mastery
-Increase your Sun affinity
-Sun Affinity, Level 5
-Magical, Sun
-4
-Terran Supremacy
-Maximize your affinity for Earth
-Earth Mastery
-Magical, Earth
-5
-Thrown Weapon Adept
-Throw weapons further
-
-
-Combat
-1
-Tough
-You gain 1 additional HP every level
-
-
-Biological
-2
-Trickshot
-Under certain conditions you can bypass a target’s Guard when you attack them
-Finesse 3+
-Attack
-3
-Tutor
-You can assist allied on Tests with a Suit of your Choice
-
-
-Skill, Social
-3
-Umbramancy Adept
-Requires target to have fewer Cards in Hand than are in the Void. Advances the strength of your void magic
-Umbramancy Novice
-Magical, Void
-4
-Umbramancy Master
-Requires more Cards in the Void than are in the Library. Grants you supreme control over darkness
-Umbramancy Adept
-Magical, Void
-4
-Umbramancy Novice
-Requires more Cards in the Void than are in your Hand. Grants you basic void magic
-Void Affinity
-Magical, Void
-4
-Unarmed Adept
-When attacking without weapons increase your damage
-
-
-Combat
-3
-Unarmed Expert
-Further increase your damage while not wielding weapons
-Unarmed Adept, Level 5
-Combat
-4
-Void Affinity
-You gain an affinity for the element of void
-
-
-Magical, Void
-3
-Void Mastery
-Your affinity for the void grows stronger
-Void Affinity
-Magical, Void
-4
-Warrior's Grit
-Increase your ability to use weapons in combat
-
-
-Combat, Skill
-3
-Weapon Adept
-Select a Suit. Weapons of the chosen suit become easier to use for you
-
-
-Combat
-2
-Weapon Expert
-Further increase your skill with weapons of the chosen Suit
-Weapon Adept
-Combat
-2
-Winged
-You may use your Speed to fly due to Wings
-
-
-Biological, Sky
-3
-
-
-
-
-
-Relationships
-    Your character does not exist on their own; DYW is played as part of a party of characters. The dynamics between your characters can often form the narrative and emotional core of the stories told with this system. To represent some aspects of the party dynamic you are able to define your Relationship to each of the other characters in your party at character creation. These Relationships give niche mechanical abilities but are also a narrative tool for yourself and the other Players to help advance the story  of the game.
-Acquiring Relationships
-    During the character creation process you will ideally be speaking to the other Players and the Dealer about the kind of game you wish to play and the character you wish to inhabit within that game. Once each of you has a rough idea of the type of character you are building you can each choose to define your relationship to one another. When you do so select a relationship from the list below. The relationship you select is what the other character is for you. For example, should you choose Boss, you are defining the other character as your character’s boss in some capacity. Relationships may have a prerequisite, this will define what Relationship the other Player must choose for your character in order for your selection to be valid. Once you have made your choice make sure to discuss the specifics of the Relationship with the Dealer and the other Player. Guidance on what questions to answer are provided in the description of each Relationship, but the depth and breadth of the questions you answer are up to yourself and the other Player.
-
-
-
-Relationships
-
-Bodyguard -  
-Prerequisite(s): Boss
-Description: 
-This character is your bodyguard. They have devoted themself, or a part of themself, to protecting you. Discuss with the Dealer and the other Player why and how they have come into your service, and where their loyalty may end.
-Feature: 
-When taking the Guard Action while within 1 unit of your bodyguard, you may use their Guard Refresh in place of your own. In addition, when making a surprise test if your bodyguard is within 1 unit of you you may use their attributes in place of your own.
-Boss -
-Prerequisite(s): Bodyguard or Employee
-Description: 
-This character is your boss. They may have hired you or acquired your services in other ways. Regardless, you are in their employ and serve them dutifully. Discuss with the Dealer and the other Player how you came into their service and why.
-Feature: 
-    Whenever you are able to spend Clout if your boss is within 5 units of you they may spend their Clout in place of your own. You may not divide the cost between you.
-
-Childhood Friend -
-Prerequisite(s): Childhood Friend
-Description: 
+**1st Level:**  
+    _Passive Bonus:_ Whenever a Card is Played to the Pile by an effect you can see you can cause that Card to instead go directly to the Void by Playing any Card from your Hand. When you do so the ability activates as normal, and fully resolves before the Card is Moved.      
+_Features:_ Basic Umbramancy, Void Affinity  
+**3rd Level:**   
+    _Features:_ Adept Umbramancy  
+**5th Level:**  
+    _Features:_ Void Mastery  
+**7th Level:**  
+    _Features:_ Advanced Umbramancy  
+**10th Level:**  
+    _Features:_ Shadow Supremacy  
+**14th Level:**  
+    _Passive Bonus:_ Whenever your party Rests you may choose to Draw any of your new Cards from the Void rather than the Library.  
+
+## Features
+Every character has Features which represent their unique qualities and affinities in ways Attributes and a Style alone cannot. Features can affect both the world of the game and the mechanics of your character. They may allow you to take a special action, modify an existing action, grant you a passive bonus, or more.
+
+
+### Acquiring Features
+In order to acquire a Feature you must meet two conditions. Firstly, you must meet all Prerequisites listed on the description of the Feature. Then you must spend an amount of Build equal to the Value of the Feature. You may then add the Feature to your character sheet.
+If a Feature has a prerequisite you do not yet meet but can acquire through character creation you may acquire the Feature so long as you meet the prerequisite after completing character creation.
+
+### Tags
+Each Feature may have tags. These tags also apply to any effects or damage created through the ability. For instance the Basic Pyromancy Feature grants the ability to make a special attack. The damage dealt by this attack shares all of the tags of the Feature.
+Most of these tags have no effect on their own, but may be modified by other Features from yourself or others. Most commonly any Resistance from a target will apply based on the tags of your Features. The following tags are exceptions and impose special conditions on the Features to which they are attached.
+
+**Attack:** This Feature grants you an alternative method of Attacking or modifies an existing Attack. Whenever another piece of gamer text refers to an Attack it applies both to the default Attack options and to your [Attack] Features.
+
+**Biological:** These Features are innate to the biology of your character. As such it is rare for them to manifest through gaining Experience. You may select these Features only during character creation unless you have the Inhuman Signature Ability or explicit permission from the Dealer.
+
+**Continuous:** You may only have a single [Continuous] Feature active at a time. If you use a second one while another is active the effect of the first immediately ends.
+
+
+| Name                 | Effect                                                                                                                                                | Prerequisites                               | Tags                      | Value |
+| :------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------ | :------------------------ | :---- |
+| Aeromancy Adept      | Increases your skill with sky magic. Requires two Spades Cards in Hand                                                                                | Aeromancy Novice                            | Attack, Magical, Sky      | 4     |
+| Aeromancy Master     | Increases your skill with sky magic. Requires three Spades Cards in Hand.                                                                             | Aeromancy Adept                             | Magical, Sky              | 4     |
+| Aeromancy Novice     | Requires a Spades Card in Hand. Grants you basic sky magic                                                                                            | Sky Affinity                                | Attack, Magical, Sky      | 4     |
+| Alchemy Adept        | Allows you to use the Basic Craft Feature to craft one of four potions based on the Suit of the Played Card                                           | Basic Craft                                 | Alchemy                   | 4     |
+| Armor Adept          | While fully equipped with armor gain +1/+1 Guard per piece of armor                                                                                   |                                             | Combat                    | 2     |
+| Balanced             | Reduces debuffs from terrain. You more easily resist effects which knock you off balance                                                              |                                             |                           | 1     |
+| Basic Craft          | You may use an Action during a Breather to spend Reserve and craft a Key Item to help on a later Test                                                 | Finesse 1+                                  | Skill                     | 4     |
+| Bedside Care         | Heal characters you Trade with during a Breather                                                                                                      | Charm 1+                                    | Healing, Skill            | 4     |
+| Cheap Shot           | Discard a Card to deal damage based on the top Card of the Pile. Bonus if Discarded Card was an Ace                                                   | Finesse 3+                                  | Attack                    | 4     |
+| Combat Regeneration  | Regenerate HP by Playing a Card                                                                                                                       | Minor Regeneration                          | Biological, Healing       | 4     |
+| Combo Striker        | Deal extra damage if the Card you Play for your Attack matches the Card below it                                                                      | Finesse 3+                                  | Attack                    | 5     |
+| Curse                | Upgrade and modify Hex’s effect                                                                                                                       | Hex                                         | Upgrade, Magical, Void    | 2     |
+| Darkvision           | See better in the dark                                                                                                                                | Nocturnal                                   | Biological                | 1     |
+| Deft Striker         | Allows you to add Finesse to your attack damage in certain cases                                                                                      | Finesse 1+                                  | Skill                     | 3     |
+| Dual Wielder Adept   | Allows you to Attack twice on your turn rather than once if you use two weapons                                                                       |                                             | Combat                    | 4     |
+| Earth Affinity       | Gain a magical affinity for the element of earth                                                                                                      |                                             | Magical, Earth            | 3     |
+| Earth Mastery        | Strengthen your affinity for the earth                                                                                                                | Earth Affinity                              | Magical, Earth            | 4     |
+| Explosives Adept     | Deal bonus damage to one creature in a range of your explosive weapons                                                                                |                                             | Combat                    | 1     |
+| Explosives Expert    | Deal bonus damage to all creatures in range of your explosive weapons                                                                                 | Explosives Adept                            | Combat                    | 2     |
+| Fangs                | Grants you a bite attack with a low range                                                                                                             |                                             | Combat, Biological        | 3     |
+| Finned               | Allows you to move easily through the water                                                                                                           |                                             | Biological, Sea           | 2     |
+| Fleet Feet           | Increase your Speed while above half health                                                                                                           |                                             |                           | 1     |
+| Full Treatment       | When you heal a creature you can cure certain Conditions affecting them                                                                               | Any [Healing] Feature                       | Healing                   | 4     |
+| Gather               | You may regain Reserve during a Breather                                                                                                              |                                             | Skill                     | 2     |
+| Geomancy Adept       | Increases your skill with earth magic. Requires two Club Cards in Hand                                                                                | Geomancy Novice                             | Attack, Magical, Earth    | 4     |
+| Geomancy Master      | Increases your skill with earth magic. Requires three Club Cards in Hand.                                                                             | Geomancy Adept                              | Magical, Earth            | 4     |
+| Geomancy Novice      | Requires a Club Card in Hand. Grants you basic earth magic                                                                                            | Earth Affinity                              | Magical, Earth            | 4     |
+| Great Weapon Expert  | Increases the Value range of Great Weapons with which you have the Weapon Adept Feature                                                               | Weapon Adept                                | Combat                    | 2     |
+| Greater Healer       | Enhances your healing Features                                                                                                                        | Any Feature which restores HP to a Creature | Upgrade, Magical, Healing | 2     |
+| Greater Regeneration | Enhances Features which heal yourself                                                                                                                 | Minor Regeneration                          | Biological, Healing       | 3     |
+| Gunner               | Avoid spending Reserve when using an [Ammunition] weapon by playing Odd Cards                                                                         | Weapon Adept [Hearts]                       | Combat                    | 2     |
+| Haggle               | Discard a Card from the Dealer’s Hand while haggling with an NPC                                                                                      | Charm 2+                                    | Skill, Social             | 3     |
+| Heavy Armor Expert   | Gain +0/+1 Guard while wearing a full set of [Heavy] armor every few levels                                                                           | Armor Adept                                 | Combat                    | 4     |
+| Hemorrhaging Bite    | Inflict Bleed on targets when using your natural attack                                                                                               | Fangs or Maw                                | Attack, Biological        | 3     |
+| Hex                  | While there is a Six in the Void you can weaken all Creatures within a radius of yourself                                                             | Umbramancy Novice                           | Magical, Void, Continuous | 2     |
+| Hydromancy Adept     | Increases your skill with sea magic. Requires two Heart Cards in Hand                                                                                 | Hydromancy Novice                           | Attack, Magical, Sea      | 4     |
+| Hydromancy Master    | Increases your skill with sea magic. Requires three Heart Cards in Hand.                                                                              | Hydromancy Adept                            | Magical, Sea              | 4     |
+| Hydromancy Novice    | Requires a Heart Card in Hand. Grants you basic sea magic                                                                                             | Sea Affinity                                | Magical, Sea              | 4     |
+| Inspiring Presence   | Inspire those around you, allowing them to use Card from your Hand                                                                                    | Charm 3+                                    | Skill, Social             | 3     |
+| Intimidating         | Add your Might to certain social Tests by spending Clout                                                                                              |                                             | Social                    | 3     |
+| Invigorating Shot    | When you heal a creature you may increase the healing and provide the target with extra benefits at the cost of hurting them at the end of their turn | Any [Healing] Feature, Level 10+            | Healing                   | 6     |
+| Knight's Guard       | If you have a Facecard in hand it is easier to restore your Guard when you have the broken condition                                                  |                                             | Combat, Skill             | 2     |
+| Light Armor Expert   | Gain +1/+0 Guard while wearing a full set of [Light] armor every few levels                                                                           | Armor Adept                                 | Combat                    | 4     |
+| Loner                | When making a Test while alone you gain a benefit                                                                                                     |                                             |                           | 2     |
+| Maw                  | Gain a special attack with a Value range of 5-8 and a suit of Clubs.                                                                                  |                                             | Combat, Biological        | 3     |
+| Minor Regeneration   | Heal as an Action during a Breather by Playing a Card                                                                                                 |                                             | Biological                | 2     |
+| Monstrous            | Gain resistance to [Weapon] damage while you have a Hearts Card in Hand                                                                               |                                             | Biological                | 3     |
+| Nocturnal            | You gain a bonus to Tests at night and negative to Tests during the day                                                                               |                                             | Biological                | 2     |
+| Opportunist          | Attack creatures if you’re wielding a melee weapon when they move through your range                                                                  |                                             | Attack                    | 4     |
+| Parry                | If a creature fails to break your Guard with an Attack you can knock them over or push them back                                                      | Might 2+                                    | Skill                     | 4     |
+| Patch Up             | Heal another creature if you have a Hearts Card in Hand and they Play a Card                                                                          |                                             | Skill, Healing            | 3     |
+| Precision Shot       | When you Attack if your Card matches the Card below you may combine their Values for the damage                                                       | Combo Striker, Finesse 4+                   | Skill, Attack             | 4     |
+| Pyromancy Adept      | Increases your skill with sun magic. Requires two Diamond Cards in Hand                                                                               | Pyromancy Novice                            | Attack, Magical, Sun      | 4     |
+| Pyromancy Master     | Increases your skill with sun magic. Requires three Diamond Cards in Hand.                                                                            | Pyromancy Adept                             | Attack, Magical, Sun      | 4     |
+| Pyromancy Novice     | Requires a Diamond Card in Hand. Grants you basic sun magic                                                                                           | Sun Affinity                                | Magical, Sun              | 4     |
+| Quick Alchemy        | Expend Reserve to make potions as an Action                                                                                                           | Alchemy Adept                               | Alchemy                   | 3     |
+| Quick Draw           | Make an Attack at the beginning of Initiative. Lower the Initiative of your target(s)                                                                 | Wits 1+, Finesse 1+                         | Attack                    | 2     |
+| Resourceful          | When refreshing your hand after a Rest you may take one of the Cards from the Pile                                                                    |                                             |                           | 3     |
+| Scaled               | Gain +1/+1 Guard every few levels                                                                                                                     |                                             | Biological                | 2     |
+| Sea Affinity         | Gain a magical affinity for the element of Sea                                                                                                        |                                             | Magical, Sea              | 3     |
+| Sea Legs             | You are stable on vehicles and moving terrain                                                                                                         | Balanced                                    | Combat, Sea               | 1     |
+| Sea Mastery          | Strengthen your affinity for the Sea                                                                                                                  | Sea Affinity                                | Magical, Sea              | 4     |
+| Sea Supremacy        | Maximize your affinity for the Sea                                                                                                                    | Sea Mastery                                 | Magical, Sea              | 5     |
+| Shadow Supremacy     | Maximize your affinity for the Void                                                                                                                   | Void Mastery                                | Magical, Void             | 5     |
+| Shield Adept         | While wielding a shield raise gain +0/+1 Guard                                                                                                        |                                             | Combat                    | 2     |
+| Shield Bash          | You may treat equipped Shields as a Clubs Weapon                                                                                                      | Shield Adept                                |                           | 4     |
+| Shield Master        | While wielding a shield raise gain +1/+0 Guard                                                                                                        | Shield Adept                                | Combat                    | 2     |
+| Shield Toss          | When attacking with Shield Bash you may throw it                                                                                                      | Shield Bash, Thrown Weapon Adept            |                           | 3     |
+| Silver Tongued       | Gain clout when you persuade an NPC using a Test                                                                                                      |                                             | Social                    | 3     |
+| Sky Affinity         | Gain a magical affinity for the element of Sky                                                                                                        |                                             | Magical, Sky              | 3     |
+| Sky Mastery          | Strengthen your affinity for the Sky                                                                                                                  | Sky Affinity                                | Magical, Sky              | 4     |
+| Sleuth               | Reveal the top Card of the Deck and the Dealer’s Hand when you investigate something                                                                  | Wits or Intelligence 2+                     | Skill                     | 2     |
+| Solar Supremacy      | Maximize your affinity for Sun                                                                                                                        | Sun Master, Level 10                        | Magical, Sun              | 5     |
+| Solid Stance         | You maintain a stable stance while on solid ground                                                                                                    | Balanced                                    | Combat, Earth             | 2     |
+| Spell Sword          | You can attack twice so long as you are wielding a weapon and one attack is [Magical]                                                                 | Any [Magical, Attack] Feature               | Combat, Magical           | 4     |
+| Stealthy             | You gain a bonus to hide and to damage if you attack while hidden                                                                                     |                                             | Void, Combat              | 2     |
+| Storm Supremacy      | Maximize your affinity for Sky                                                                                                                        | Sky Mastery                                 | Magical, Sky              | 5     |
+| Storyteller          | You may trade more cards when taking the Trade Action during a Breather                                                                               | Charm 2+                                    | Skill, Social             | 3     |
+| Subtle Caster        | While you have a Pair in Hand you may hide that you are doing magic form onlookers                                                                    | Any [Magical] Feature                       | Social, Skill, Magical    | 3     |
+| Sun Affinity         | You gain an affinity for the element of Sun                                                                                                           |                                             | Magical, Sun              | 3     |
+| Sun Mastery          | Increase your Sun affinity                                                                                                                            | Sun Affinity, Level 5                       | Magical, Sun              | 4     |
+| Terran Supremacy     | Maximize your affinity for Earth                                                                                                                      | Earth Mastery                               | Magical, Earth            | 5     |
+| Thrown Weapon Adept  | Throw weapons further                                                                                                                                 |                                             | Combat                    | 1     |
+| Tough                | You gain 1 additional HP every level                                                                                                                  |                                             | Biological                | 2     |
+| Trickshot            | Under certain conditions you can bypass a target’s Guard when you attack them                                                                         | Finesse 3+                                  | Attack                    | 3     |
+| Tutor                | You can assist allied on Tests with a Suit of your Choice                                                                                             |                                             | Skill, Social             | 3     |
+| Umbramancy Adept     | Requires target to have fewer Cards in Hand than are in the Void. Advances the strength of your void magic                                            | Umbramancy Novice                           | Magical, Void             | 4     |
+| Umbramancy Master    | Requires more Cards in the Void than are in the Library. Grants you supreme control over darkness                                                     | Umbramancy Adept                            | Magical, Void             | 4     |
+| Umbramancy Novice    | Requires more Cards in the Void than are in your Hand. Grants you basic void magic                                                                    | Void Affinity                               | Magical, Void             | 4     |
+| Unarmed Adept        | When attacking without weapons increase your damage                                                                                                   |                                             | Combat                    | 3     |
+| Unarmed Expert       | Further increase your damage while not wielding weapons                                                                                               | Unarmed Adept, Level 5                      | Combat                    | 4     |
+| Void Affinity        | You gain an affinity for the element of void                                                                                                          |                                             | Magical, Void             | 3     |
+| Void Mastery         | Your affinity for the void grows stronger                                                                                                             | Void Affinity                               | Magical, Void             | 4     |
+| Warrior's Grit       | Increase your ability to use weapons in combat                                                                                                        |                                             | Combat, Skill             | 3     |
+| Weapon Adept         | Select a Suit. Weapons of the chosen suit become easier to use for you                                                                                |                                             | Combat                    | 2     |
+| Weapon Expert        | Further increase your skill with weapons of the chosen Suit                                                                                           | Weapon Adept                                | Combat                    | 2     |
+| Winged               | You may use your Speed to fly due to Wings                                                                                                            |                                             | Biological, Sky           | 3     |
+
+
+
+
+
+## Relationships
+Your character does not exist on their own; _DYW_  is played as part of a party of characters. The dynamics between your characters can often form the narrative and emotional core of the stories told with this system. To represent some aspects of the party dynamic you are able to define your Relationship to each of the other characters in your party at character creation. These Relationships give niche mechanical abilities but are also a narrative tool for yourself and the other Players to help advance the story  of the game.  
+### Acquiring Relationships
+During the character creation process you will ideally be speaking to the other Players and the Dealer about the kind of game you wish to play and the character you wish to inhabit within that game. Once each of you has a rough idea of the type of character you are building you can each choose to define your relationship to one another. When you do so select a relationship from the list below. The relationship you select is what the other character is for you. For example, should you choose Boss, you are defining the other character as your character’s boss in some capacity. Relationships may have a prerequisite, this will define what Relationship the other Player must choose for your character in order for your selection to be valid. Once you have made your choice make sure to discuss the specifics of the Relationship with the Dealer and the other Player. Guidance on what questions to answer are provided in the description of each Relationship, but the depth and breadth of the questions you answer are up to yourself and the other Player.
+
+
+
+### Relationship Options
+
+#### Bodyguard -  
+**Prerequisite(s):** Boss  
+**Description:**    
+This character is your bodyguard. They have devoted themself, or a part of themself, to protecting you. Discuss with the Dealer and the other Player why and how they have come into your service, and where their loyalty may end.  
+**Feature:**  
+When taking the Guard Action while within 1 unit of your bodyguard, you may use their Guard Refresh in place of your own. In addition, when making a surprise test if your bodyguard is within 1 unit of you you may use their attributes in place of your own.  
+
+#### Boss -  
+**Prerequisite(s):** Bodyguard or Employee  
+**Description:**  
+This character is your boss. They may have hired you or acquired your services in other ways. Regardless, you are in their employ and serve them dutifully. Discuss with the Dealer and the other Player how you came into their service and why.  
+**Feature:**   
+    Whenever you are able to spend Clout if your boss is within 5 units of you they may spend their Clout in place of your own. You may not divide the cost between you.  
+
+#### Childhood Friend -  
+**Prerequisite(s):** Childhood Friend  
+**Description:**  
 You and this character go way back. Perhaps you separated long ago and are just now reuniting, or you never left their side. Regardless, you know them well and you trust each other strongly. Speak to the Dealer and the other Player about what you may know about each other.
-Feature: 
-When your childhood friend takes the Trade Action on a Breather you may also Trade a card with their target at no cost.
+**Feature:**  
+When your childhood friend takes the Trade Action on a Breather you may also Trade a card with their target at no cost.  
 
-Employee -
-Prerequisite(s): Boss
-Description: 
-This character is your employee. The exact capacity in which they serve you can be broad or incredibly narrow. You should discuss with the Dealer and the other Player how and why they serve you and the extent of their duties.
-Feature: 
-    Whenever your employee succeeds on a Test by spending Clout or Reserve while within 5 units of you, you gain 1 Clout.
+#### Employee -  
+**Prerequisite(s):** Boss  
+**Description:**  
+This character is your employee. The exact capacity in which they serve you can be broad or incredibly narrow. You should discuss with the Dealer and the other Player how and why they serve you and the extent of their duties.  
+**Feature:**  
+Whenever your employee succeeds on a Test by spending Clout or Reserve while within 5 units of you, you gain 1 Clout.  
 
-Enemy -
-Prerequisite(s): None
-Description:
-    In the past this character has done something awful to you. Perhaps they commited a crime at your expense or they hurt you in a personal way. Whatever the case make sure to discuss the specifics with the Dealer and the other Player, and make sure that there is ample reason for you two to cooperate on this adventure.
-Feature:
-    Whenever your enemy makes a Surprise Test you may look at the top Card of the Deck before the Test occurs. You may then move it to the bottom of the Deck. If your enemy fails a Test they lose one Clout and you gain one Clout.
+#### Enemy -  
+**Prerequisite(s):** None  
+**Description:**  
+In the past this character has done something awful to you. Perhaps they commited a crime at your expense or they hurt you in a personal way. Whatever the case make sure to discuss the specifics with the Dealer and the other Player, and make sure that there is ample reason for you two to cooperate on this adventure.  
+**Feature:**  
+Whenever your enemy makes a Surprise Test you may look at the top Card of the Deck before the Test occurs. You may then move it to the bottom of the Deck. If your enemy fails a Test they lose one Clout and you gain one Clout.  
 
-Idol -
-Prerequisite(s): None
-Description: 
-This character has done something in the past to earn your admiration. In your eyes they can do no wrong. Perhaps you see them as a powerful hero or you have unrequited feelings for them. Speak to the other Player and the Dealer about what they may have done to earn this admiration and how they feel about how you view them. 
-Feature: 
-Whenever your idol Plays a Card and you are within 5 units of them you may spend Clout equal to the Card's Value. If you do so the Card is put into your Hand rather than the top of the Pile.
+#### Idol -  
+**Prerequisite(s):** None  
+**Description:**   
+This character has done something in the past to earn your admiration. In your eyes they can do no wrong. Perhaps you see them as a powerful hero or you have unrequited feelings for them. Speak to the other Player and the Dealer about what they may have done to earn this admiration and how they feel about how you view them.   
+**Feature:**   
+Whenever your idol Plays a Card and you are within 5 units of them you may spend Clout equal to the Card's Value. If you do so the Card is put into your Hand rather than the top of the Pile.  
 
-Lover -
-Prerequisite(s): Lover
-Description: 
-You are infatuated with this character. You are either in a relationship with them or have some other romantic entanglement with them. There may be other competitors for their affection but you are (at the moment) the winner. Speak to the Dealer and the other Player about the specifics of your relationship as well as what you are comfortable role playing throughout the game.
-Feature: 
-You and your lover share Clout. When determining your Clout pool you add each of your pools together. Whenever you spend, lose, or gain clout your lover loses or gains an equal amount.
+#### Lover -  
+**Prerequisite(s):** Lover  
+**Description:**   
+You are infatuated with this character. You are either in a relationship with them or have some other romantic entanglement with them. There may be other competitors for their affection but you are (at the moment) the winner. Speak to the Dealer and the other Player about the specifics of your relationship as well as what you are comfortable role playing throughout the game.  
+**Feature:**   
+You and your lover share Clout. When determining your Clout pool you add each of your pools together. Whenever you spend, lose, or gain clout your lover loses or gains an equal amount.  
 
-Mentor -
-Prerequisite(s): Pupil or Idol
-Description: 
-This character is your mentor. Perhaps they trained you in a skill you have, or are more of an emotional guide for you. Regardless, you look to them for guidance before anyone else in the party. Discuss with the Dealer and the other Player in what way they mentor you and how you met.
-Feature: 
-Whenever you Trade with your Mentor during a Breather you may draw a card if they have more Cards in Hand than you.
+#### Mentor -
+**Prerequisite(s):** Pupil or Idol  
+**Description:**  
+This character is your mentor. Perhaps they trained you in a skill you have, or are more of an emotional guide for you. Regardless, you look to them for guidance before anyone else in the party. Discuss with the Dealer and the other Player in what way they mentor you and how you met.  
+**Feature:**   
+Whenever you Trade with your Mentor during a Breather you may draw a card if they have more Cards in Hand than you.  
 
-Pupil -
-Prerequisite(s): Mentor
-Description: 
-This character is your pupil. You have either trained or guided them in some meaningful way. However, you may learn more from them than they do from you. Discuss with the Dealer and the other Player what you have taught them and why you have chosen to be their mentor.
-Feature: 
-Whenever you Trade with your Pupil during a Breather you may draw a card if you do not have more Cards in Hand than them.
+#### Pupil -  
+**Prerequisite(s):** Mentor  
+**Description:**   
+This character is your pupil. You have either trained or guided them in some meaningful way. However, you may learn more from them than they do from you. Discuss with the Dealer and the other Player what you have taught them and why you have chosen to be their mentor.  
+**Feature:** 
+Whenever you Trade with your Pupil during a Breather you may draw a card if you do not have more Cards in Hand than them.  
 
-Relative -
-Prerequisite(s): Relative
-Description: 
-You and this character are related. They may be an uncle, cousin, member of your nuclear family, or some other relative. Whatever your relation is exactly you are similar in many ways and have a strong innate connection. Discuss with the Dealer and the other Player any features, mannerisms, or other qualities you share because of this relationship.
-Feature: 
-If you and your relative do not share the same Style you may use their Style rather than your own once per Rest. If you do share a Style with your relative you both must agree on a Style other than your own. You may each use it once per Rest in place of your own Style.
+#### Relative -
+**Prerequisite(s):** Relative  
+**Description:**  
+You and this character are related. They may be an uncle, cousin, member of your nuclear family, or some other relative. Whatever your relation is exactly you are similar in many ways and have a strong innate connection. Discuss with the Dealer and the other Player any features, mannerisms, or other qualities you share because of this relationship.  
+**Feature:**  
+If you and your relative do not share the same Style you may use their Style rather than your own once per Rest. If you do share a Style with your relative you both must agree on a Style other than your own. You may each use it once per Rest in place of your own Style.  
 
-Rival -
-Prerequisite(s): None
-Description: 
-You see this character as a rival in some way. Perhaps in love or combat. Regardless of the source you now see any chance to compete as a way to catch up to them. This can be a friendly rivalry or more toxic, discuss with the Dealer and other Player the specifics of how this rivalry began and how it manifests.
-Feature: 
-Whenever your rival takes an Action and you immediately take the same Action you gain a +1 bonus to any Tests involved or any numerical effects of that action. For example if your rival takes the Guard Action and then you immediately take the same Action you gain 1 additional Guard than your normal amount. If the Action was a Test and you fail you lose Clout equal to your rival's Charm (minimum of 1).
+#### Rival -
+**Prerequisite(s):** None  
+**Description:**  
+You see this character as a rival in some way. Perhaps in love or combat. Regardless of the source you now see any chance to compete as a way to catch up to them. This can be a friendly rivalry or more toxic, discuss with the Dealer and other Player the specifics of how this rivalry began and how it manifests.  
+**Feature:**   
+Whenever your rival takes an Action and you immediately take the same Action you gain a +1 bonus to any Tests involved or any numerical effects of that action. For example if your rival takes the Guard Action and then you immediately take the same Action you gain 1 additional Guard than your normal amount. If the Action was a Test and you fail you lose Clout equal to your rival's Charm (minimum of 1).  
 
-Stranger -
-Prerequisite(s): None
-Description: 
-You do not know this character yet. At a later point in the game if you, the other Player, and the Dealer feel it is appropriate you may update this Relationship to something more appropriate once your characters are acquainted.
-Feature: 
-Whenever you Trade with a stranger during a Breather you may either Trade an additional card each or regain 1 Clout and 1 Reserve.
+#### Stranger -
+**Prerequisite(s):** None  
+**Description:**   
+You do not know this character yet. At a later point in the game if you, the other Player, and the Dealer feel it is appropriate you may update this Relationship to something more appropriate once your characters are acquainted.  
+**Feature:**   
+Whenever you Trade with a stranger during a Breather you may either Trade an additional card each or regain 1 Clout and 1 Reserve.  
 
-Suspect -
-Prerequisite(s): None
-Description: 
-Something about this character has piqued your interest, and not in a good way. While you don't have any hostility towards them yet you have some reason to believe they are hiding something. Speak to the Dealer and other Player about what you do and don't know about their character, and have the other Player and Dealer confer about what the truth is. If later in the game you feel your suspicions have been confirmed or denied you may switch this relationship to another relationship as deemed appropriate by the Dealer and yourself. 
-Feature: 
-Whenever your suspect Discards a Card and you are within 5 units of them you may spend Clout or Reserve equal to the Card's Value. If you do so the Card is put into your Hand rather than the Void.
+#### Suspect -  
+**Prerequisite(s):** None  
+**Description:** 
+Something about this character has piqued your interest, and not in a good way. While you don't have any hostility towards them yet you have some reason to believe they are hiding something. Speak to the Dealer and other Player about what you do and don't know about their character, and have the other Player and Dealer confer about what the truth is. If later in the game you feel your suspicions have been confirmed or denied you may switch this relationship to another relationship as deemed appropriate by the Dealer and yourself.   
+**Feature:**  
+Whenever your suspect Discards a Card and you are within 5 units of them you may spend Clout or Reserve equal to the Card's Value. If you do so the Card is put into your Hand rather than the Void.  
 
-Victim -
-Prerequisite(s): None
-Description:
-    You have done something to this character in the past. Something which hurt them. Perhaps you feel remorse, or perhaps you revel in their suffering. Whatever the case you should discuss with the Dealer and the other Player what exactly you have done to them, whether or not they are aware of it, and why you choose to adventure with each other.
-Feature:
-    Whenever your victim takes the Trade action with a character other than yourself during a Breather you may use your Action to expand on their story. When you do so if you spend an amount of Clout equal to the Value of the Card your victim trades away you may then Draw a Card.
-
-
+#### Victim -  
+**Prerequisite(s):** None  
+**Description:**  
+You have done something to this character in the past. Something which hurt them. Perhaps you feel remorse, or perhaps you revel in their suffering. Whatever the case you should discuss with the Dealer and the other Player what exactly you have done to them, whether or not they are aware of it, and why you choose to adventure with each other.  
+**Feature:**  
+Whenever your victim takes the Trade action with a character other than yourself during a Breather you may use your Action to expand on their story. When you do so if you spend an amount of Clout equal to the Value of the Card your victim trades away you may then Draw a Card.  
 
 
-Inventory
-    The character you play will be in part defined by the items they carry with them. Perhaps you have a family heirloom, a cursed blade, or a trusty handkerchief you carry with you. Whatever the case, the items you begin the game with and gain along your journey are as important as the Features and Attributes of your character.
-    While your Reserve represents all of the minutiae of life as an adventurer that would be cumbersome to track manually, your Inventory is made up of specific items which will be used either often or in moments too impactful to rely on Reserve for. Inventory is made up of two kinds of items: Equipment and Key Items.
 
-Equipment
-    Weapons, Armor, and specialized gear worn on the body all fall under the category of Equipment. Your character has ten equipment slots and two hands by default in which to equip Equipment. Each piece of Equipment will list in its description onto which Equipment slots it must be equipped. Each equipment slot is referred to by a number and corresponds to a part of your character’s body on which the equipment is worn or carried. All of the Equipment available is listed in Appendix B.
 
-1 - Head
-    Typical Equipment: Headbands, Helms, Hats, Wigs
-2 - Face
-    Typical Equipment: Masks, Eyewear, Makeup, Faceplates
-3 - Neck
-    Typical Equipment: Gorgets, Necklaces, Scarves
-4 - Shoulders
-    Typical Equipment: Pauldrons, Mantles
-5 - Chest
-    Typical Equipment: Breastplates, Shirts, Aprons
-6 - Back
-    Typical Equipment: Backpacks, Capes, 
-7 - Wrists
-    Typical Equipment: Bracelet, Cuffs, Bracers
-8 - Hands
-    Typical Equipment: Gauntlets, Gloves, Rings
-9 - Legs
-    Typical Equipment: Greaves, Pants, Skirts, Kilts
-10 - Feet
-    Typical Equipment: Boots, Sabatons, Socks
+## Inventory
+The character you play will be in part defined by the items they carry with them. Perhaps you have a family heirloom, a cursed blade, or a trusty handkerchief you carry with you. Whatever the case, the items you begin the game with and gain along your journey are as important as the Features and Attributes of your character.
+While your Reserve represents all of the minutiae of life as an adventurer that would be cumbersome to track manually, your Inventory is made up of specific items which will be used either often or in moments too impactful to rely on Reserve for. Inventory is made up of two kinds of items: Equipment and Key Items.
 
-Hands
-    The default number of hands for a character to possess is two. You may gain or lose hands as the game progresses. Hands are used to hold and wield things. Usually in combat you will be holding weapons, a shield, or keeping your hands free for the use of certain Features. Weapons, Shields, and certain Key Items will list in their descriptions how many hands are required to wield them effectively to gain their benefits. However, any of these items can be held in a single hand if necessary. You must track at all times what items you are wielding in your Hands.
+### Equipment
+Weapons, Armor, and specialized gear worn on the body all fall under the category of Equipment. Your character has ten equipment slots and two hands by default in which to equip Equipment. Each piece of Equipment will list in its description onto which Equipment slots it must be equipped. Each equipment slot is referred to by a number and corresponds to a part of your character’s body on which the equipment is worn or carried. All of the Equipment available is listed in Appendix B.
 
-Equipment Tags
-    Equipment can have tags, much like Features. These tags most often do not carry inherent meaning, but some come with specific mechanical rules attached to the piece of Equipment. Weapon tags have a variety of meanings, as listed below.
+**1 - Head**  
+    Typical Equipment: Headbands, Helms, Hats, Wigs  
+**2 - Face**  
+    Typical Equipment: Masks, Eyewear, Makeup, Faceplates  
+**3 - Neck**  
+    Typical Equipment: Gorgets, Necklaces, Scarves  
+**4 - Shoulders**  
+    Typical Equipment: Pauldrons, Mantles  
+**5 - Chest**  
+    Typical Equipment: Breastplates, Shirts, Aprons  
+**6 - Back**  
+    Typical Equipment: Backpacks, Capes   
+**7 - Wrists**  
+    Typical Equipment: Bracelet, Cuffs, Bracers  
+**8 - Hands**  
+    Typical Equipment: Gauntlets, Gloves, Rings  
+**9 - Legs**  
+    Typical Equipment: Greaves, Pants, Skirts, Kilts  
+**10 - Feet**  
+    Typical Equipment: Boots, Sabatons, Socks  
 
-Weapons:
-    Ammunition: In order to make an Attack with this weapon you must expend 1 Reserve.
-    Machine: You may not add your Might to the damage of this weapon, even if the Card you Play is within the Value range of the weapon.
-    Ranged: This weapon cannot be used to Attack while within 1 Unit of the target. Instead, you may use it to attack any target within a number of units equal to its Range, as listed in the weapon’s description.
-    Reach: This weapon can target a creature within 2 units of you rather than just 1.
-    Two-Handed: This weapon must be wielded in two hands in order to make an Attack with it.
-    Thrown: This weapon can be used either at Melee range or with the Range listed in its description. Using a Ranged Attack with this weapon removes it from your inventory.
-    Unwieldy: In order to Attack with this weapon you must play two Cards, using the Value of only the greater.
+### Hands
+The default number of hands for a character to possess is two. You may gain or lose hands as the game progresses. Hands are used to hold and wield things. Usually in combat you will be holding weapons, a shield, or keeping your hands free for the use of certain Features. Weapons, Shields, and certain Key Items will list in their descriptions how many hands are required to wield them effectively to gain their benefits. However, any of these items can be held in a single hand if necessary. You must track at all times what items you are wielding in your Hands.
 
-Key Items
-    Any item which is notable enough to mark on your character sheet but does not fall under the category of Equipment is a Key Item. These items may be purely utilitarian in nature, or they may serve a purpose within the narrative of the game. Key Items may also be used as Equipment if they serve both functions. For instance, if you are wearing armor which has been passed down as a family heirloom it may also be counted as a Key Item. Key Items can be made via the use of certain Features such as Basic Craft. When a Key Item has an ability or use it is noted in the description of that item. Aside from the Key Items created by Features all Key Items exist at the discretion of the Dealer. The line between items represented by Reserve and items which should be noted separately can and should change based on the tone and play style of your play group.
+### Equipment Tags
+Equipment can have tags, much like Features. These tags most often do not carry inherent meaning, but some come with specific mechanical rules attached to the piece of Equipment. Weapon tags have a variety of meanings, as listed below.
 
-Obtaining Items
-    Unlike most other parts of your character, you do not obtain more items purely through the mechanics of the game. Throughout your journeys you may not gain any additional items at all. Dealers may reward characters with Key Items if they so choose.
+#### Weapons:
+**Ammunition:** In order to make an Attack with this weapon you must expend 1 Reserve.  
 
-Signature Ability: Certain Signature Abilities will grant you pieces of equipment or a choice of pieces of equipment.
+**Machine:** You may not add your Might to the damage of this weapon, even if the Card you Play is within the Value range of the weapon.  
 
-Character Creation: When you create your character you may spend Build as you would for Features or Attributes on Equipment. The amount you must spend on pieces of equipment is listed in the item’s description.
+**Ranged:** This weapon cannot be used to Attack while within 1 Unit of the target. Instead, you may use it to attack any target within a number of units equal to its Range, as listed in the weapon’s description.  
 
-Through Gameplay: Throughout your journeys your Dealer may award you with items from quests or the chance to purchase items in shops.
+**Reach:** This weapon can target a creature within 2 units of you rather than just 1. 
+
+**Two-Handed:** This weapon must be wielded in two hands in order to make an Attack with it.
+
+**Thrown:** This weapon can be used either at Melee range or with the Range listed in its description. Using a Ranged Attack with this weapon removes it from your inventory.  
+
+**Unwieldy:** In order to Attack with this weapon you must play two Cards, using the Value of only the greater.  
+
+### Key Items
+Any item which is notable enough to mark on your character sheet but does not fall under the category of Equipment is a Key Item. These items may be purely utilitarian in nature, or they may serve a purpose within the narrative of the game. Key Items may also be used as Equipment if they serve both functions. For instance, if you are wearing armor which has been passed down as a family heirloom it may also be counted as a Key Item. Key Items can be made via the use of certain Features such as Basic Craft. When a Key Item has an ability or use it is noted in the description of that item. Aside from the Key Items created by Features all Key Items exist at the discretion of the Dealer. The line between items represented by Reserve and items which should be noted separately can and should change based on the tone and play style of your play group.
+
+### Obtaining Items
+Unlike most other parts of your character, you do not obtain more items purely through the mechanics of the game. Throughout your journeys you may not gain any additional items at all. Dealers may reward characters with Key Items if they so choose.
+
+**Signature Ability:** Certain Signature Abilities will grant you pieces of equipment or a choice of pieces of equipment.
+
+**Character Creation:** When you create your character you may spend Build as you would for Features or Attributes on Equipment. The amount you must spend on pieces of equipment is listed in the item’s description.
+
+**Through Gameplay:** Throughout your journeys your Dealer may award you with items from quests or the chance to purchase items in shops.
