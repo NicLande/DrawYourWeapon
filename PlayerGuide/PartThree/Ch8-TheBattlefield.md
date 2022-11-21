@@ -30,7 +30,7 @@ The ground you stand on provides the foundation on which combat occurs. Terrain 
 During combat and occasionally as you traverse the world a Feature or other effect will inflict or bestow a condition on you. Conditions are passive effects which can affect your character in a variety of ways both positive and negative. A list of all Conditions and their effects can be found in Appendix C at the end of this book.
 
 ### Condition Tags
-Like many other aspects of DYW Conditions may have Tags attached to them Generally these denote a damage type or category the Condition falls into. However there are a few which carry inherent meaning. These are listed below
+Like many other aspects of _DYW_ Conditions may have Tags attached to them Generally these denote a damage type or category the Condition falls into. However there are a few which carry inherent meaning. These are listed below
 
 **Basic:** This Condition can be gained by any player character through some simple execution of the game rules. For instance, any character can gain the Broken Condition when their Current Guard is reduced to 0.
 

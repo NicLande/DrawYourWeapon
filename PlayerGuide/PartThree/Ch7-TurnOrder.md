@@ -12,13 +12,13 @@ Firstly, the Dealer must determine which creatures, if any, were caught off guar
 **Not Surprised:** If you do not begin combat surprised, you begin by setting your Current Guard to your Maximum Guard, drawing any weapons, shields, or other wieldable items you wish, and setting your Speed to your maximum Speed.
 
 ### Map
-DYW will ideally be played in a situation where your playgroup can represent the battlefield with a battlemap. A piece of paper, dry erase mat, or surface to draw on with 1” squares can be used to accurately measure distances for abilities. In the case where you have a map like this each square represents 1 unit. After determining surprise your Dealer should set up the battlemap, placing terrain, creatures, and other environmental factors as they exist in game.
+_DYW_ will ideally be played in a situation where your playgroup can represent the battlefield with a battlemap. A piece of paper, dry erase mat, or surface to draw on with 1” squares can be used to accurately measure distances for abilities. In the case where you have a map like this each square represents 1 unit. After determining surprise your Dealer should set up the battlemap, placing terrain, creatures, and other environmental factors as they exist in game.
 
 ### Initiative Tracker
 Along with a battlemap it is recommended that your Dealer prepares a fast way to track the Initiative of your group. The simplest method for this is to select some kind of easily distinguishable token for the Players and NPCs such as poker chips or dice and place them in the order of Initiative.
 
 ## Initiative
-The combat of DYW is turn based and relies on Rounds and Turns. A Round is a collection of Turns, taking just a few short moments within the game to execute. A Turn is each creature’s chance to act in combat taking Actions and Moving as needed. 
+The combat of _DYW_ is turn based and relies on Rounds and Turns. A Round is a collection of Turns, taking just a few short moments within the game to execute. A Turn is each creature’s chance to act in combat taking Actions and Moving as needed. 
 
 ### Determining Initiative
 At the beginning of each Round every combatant must determine their place in Initiative. You determine this by adding together the Value of the highest Spades Card in your Hand to your Current Speed. If you do not have any Spade Cards in your Hand you instead just use your Current Speed.

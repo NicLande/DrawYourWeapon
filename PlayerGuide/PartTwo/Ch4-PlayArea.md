@@ -1,6 +1,6 @@
 ## Chapter 4: Play Area
 ---
-When playing Draw Your Weapon it is important to understand and properly set up the table or space which your group is playing on. You will need space for various Card sources to remain on or to move throughout the play area for the duration. This chapter outlines each location a Card can be in and how that collection operates.
+When playing _Draw Your Weapon_ it is important to understand and properly set up the table or space which your group is playing on. You will need space for various Card sources to remain on or to move throughout the play area for the duration. This chapter outlines each location a Card can be in and how that collection operates.
 
 ## The Library
 The Library represents destiny. As Cards are Drawn from The Library the Party falls further into exhaustion and desperation. When it empties the tide of the story turns against the Party. Balancing the power of the Cards and the cost of draining The Library is essential to any Party’s success.

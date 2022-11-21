@@ -19,7 +19,7 @@ If the Test you are attempting is difficult due to its inherent nature or the ci
 Occasionally, a Test will be called for not based on an action a Player chooses to take, but due to circumstances the Dealer creates for the Players. In cases like these, such as attacks from enemies or traps in the environment, the Test will be handled as a Surprise. A Surprise can be either a Contest or a Skill Test. They act as normal, except the surprised character Plays the top Card of the Deck directly to the Pile rather than a Card from their Hand. In addition to the normal rewards for succeeding the successful party may also add the Played card to their hand if they wish.
 
 ## Attacks
-When a Player wants to hurt another creature or an object in the world, this is usually accomplished through the use of the Attack Action. There are multiple kinds of Attacks in Draw Your Weapon based on the kind of weapon you are wielding and the method with which you choose to attack.
+When a Player wants to hurt another creature or an object in the world, this is usually accomplished through the use of the Attack Action. There are multiple kinds of Attacks in _Draw Your Weapon_ based on the kind of weapon you are wielding and the method with which you choose to attack.
 
 ### Simple Strike
 A simple strike may be performed at any time a character is not restricted in some way. It most often represents a simple punch or kick as it does not require a weapon to be used. You may still use a Simple Strike even while your hands are occupied.
