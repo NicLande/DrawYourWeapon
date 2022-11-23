@@ -3,17 +3,17 @@
 * Introduction
     * 
 * Part 1 - Running The Game
-    * Your Hand
-    * Levels of Play
+    * Behind the Screen
+        * Your Hand
+        * Hazards
+        * Complications
+        * Cataclysms
+    * Layers of Story
         * Scenes
         * Arcs
         * Campaigns
-    * Hazards
-        * Threats
-        * Environment
-        * Complications
-        * Cataclysms
     * Combat
+        * Environment
         * Initiative
         * Complications
 * Part 2 - The Game World
