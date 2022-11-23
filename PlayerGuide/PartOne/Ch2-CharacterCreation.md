@@ -618,13 +618,13 @@ Equipment can have tags, much like Features. These tags most often do not carry 
 
 **Machine:** You may not add your Might to the damage of this weapon, even if the Card you Play is within the Value range of the weapon.  
 
-**Ranged:** This weapon cannot be used to Attack while within 1 Unit of the target. Instead, you may use it to attack any target within a number of units equal to its Range, as listed in the weapon’s description.  
+**Ranged:** This weapon cannot be used to Attack while within 1 Unit of the target. Instead, you may use it to attack any target within a number of units equal to its Range, as listed in the weapon’s description. 
 
-**Reach:** This weapon can target a creature within 2 units of you rather than just 1. 
+**Reach:** This weapon can target a creature within 2 units of you rather than just 1.
 
 **Two-Handed:** This weapon must be wielded in two hands in order to make an Attack with it.
 
-**Thrown:** This weapon can be used either at Melee range or with the Range listed in its description. Using a Ranged Attack with this weapon removes it from your inventory.  
+**Thrown:** This weapon can be used either at Melee range or with the Range listed in its description. Using a Ranged Attack with this weapon removes it from your inventory. Weapons with this tag have two ranges listed, one for their melee reach and one for their thrown range denoted as x/y. 
 
 **Unwieldy:** In order to Attack with this weapon you must play two Cards, using the Value of only the greater.  
 
