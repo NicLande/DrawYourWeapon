@@ -7,7 +7,7 @@ When physical conflict breaks out between the party and some outside force Comba
 ### Determine Surprise
 Firstly, the Dealer must determine which creatures, if any, were caught off guard by the start of the conflict. Most often this will be done through the Dealer using the results of a Test from just before combat or a Test specifically at the moment combat begins. Regardless of the method used, once the Dealer determines who was and was not surprised each Player can begin preparing for the battle.
 
-**Surprised:** If you begin combat surprised you begin combat by setting your Current Guard to half of your Maximum Guard and your Speed you 0.
+**Surprised:** If you begin combat surprised you begin combat by setting your Current Guard to half of your Maximum Guard and your Speed to 0.
 
 **Not Surprised:** If you do not begin combat surprised, you begin by setting your Current Guard to your Maximum Guard, drawing any weapons, shields, or other wieldable items you wish, and setting your Speed to your maximum Speed.
 
@@ -25,13 +25,13 @@ At the beginning of each Round every combatant must determine their place in Ini
 In the event of an initiative tie with another creature, Players always win over NPCs and Players decide amongst themselves who goes first when Initiative is determined.
 
 ## Your Turn
-Your Turn in combat is your chance to affect the battlefield through Attacks, the use of Features, and Movement. On your turn you can take two Actions and Move. Only one of those Actions can be an Attack.
+Your Turn in combat is your chance to affect the battlefield through Attacks, the use of Features, and Movement. On your turn, you may Move once and take up to two Actions. Only one of those Actions can be an Attack.
 
 ### Movement
 On your turn you can use your Speed to move and take small actions. In order to move any character may use 1 Speed per Unit moved. You may also use 1 Speed to take small actions such as drawing or stowing a weapon, interacting with an object such as a button or lever, or taking some extra form of movement such as a jump. You can move before, between, or after taking Actions and can break your movement up into however many steps you wish. This is separate from the Combat Move Action.
 
 ### Actions
-The main function of your turn is to take Actions. You can take a number of Actions on your turn as described in Chapter 5. The Actions you can take are reiterated here with a brief description.
+The main function of your turn is to take Actions. You have several types of Actions at your disposal on your turn as described in Chapter 5. The Actions you can take are reiterated here with a brief description.
 
 **Tests:** When you take certain Actions the Dealer will call for a Test in place of allowing the Action to simply happen.
 

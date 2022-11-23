@@ -4,7 +4,7 @@
 
 
 ## The Environment
-Combat can happen in a variety of locations and with a myriad of different terrain. These changes to the environment combat occurs in can impose different rules upon the battle. At the start of combat the Dealer will declare any obvious environmental effects to the Players and how they affect gameplay. Detailed here are a few basic features of the environment which will always be relevant to combat.
+Combat can happen in a variety of locations and with a myriad of different terrains. The environment that combat occurs in can impose different rules upon the battle. At the start of combat the Dealer will declare any obvious environmental effects to the Players and how they affect gameplay. Detailed here are a few basic features of any environment which will always be relevant to combat.
 
 ### Light
 How well lit an area is can greatly impact not only combat but many aspects of gameplay. This aspect of an area is represented by a Light Level, a numerical value which grows as an area becomes more brightly lit. Detailed below are the possible light levels and their effects on combat and general gameplay.

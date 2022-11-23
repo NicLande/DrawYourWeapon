@@ -1,10 +1,10 @@
 ## Chapter 5: Actions
 ---
 
-When a Player wishes for their Character to carry out some task this is often represented by an Action. There are several types of Actions, each with different conditions and effects. While not everything a Character does must be an Action, nearly everything will be and Dealers and Players should be clear when a specific Action is being invoked. When outside of Combat Actions do not take a specific amount of time and their duration is defined by the Dealer or their specific wording.
+When a Player wishes for their Character to carry out some task this is often represented by an Action. There are several types of Actions, each with different conditions and effects. While not everything a Character does must be an Action, nearly everything will be and Dealers and Players should be clear when a specific Action is being invoked. When outside of Combat, Actions do not take a specific amount of time and their duration is defined by the Dealer or their specific wording.
 
 ## Tests
-When you would like your character to interact with the game world or another character you may do so at will. These actions are often simple enough that they simply occur. Occasionally, however, you may wish to do something which requires a mixture of skill and luck. When the Dealer rules that this is the case you must perform a Test to determine whether or not you succeed.
+At any point, you may choose to have your character interact with the world or other characters. It is up to the Dealer whether your character is able to freely engage in an interaction, or if you must utilize a mixture of skill and luck to perform a Test.  
 When attempting a Test the Dealer will assign a Suit and Attribute which align with the situation causing the Test. For instance, if you are attempting to kick down a door the Dealer will likely require a [Might] Clubs Test. When attempting a Test if the Card you use corresponds to the Suit allocated by the Dealer you may add your Attribute to the Result.
 ### Contests
 When attempting a Test where the hurdle is another Player or an NPC you must compete to see who succeeds on the Test. Each character involved in the conflicts selects a Card to Play simultaneously with the highest Result emerging victorious. For example, if two characters, Morgan and Julian, attempt an arm wrestling match the Dealer may call for a [Might] Clubs Contest. Julian plays the 8 of Hearts and Morgan plays the 7 of Clubs. Ordinarily Julian would win, however Morgan adds his 2 might to his Result and reaches a total of 9. After this addition Morgan is declared the winner and slams Julian’s arm down onto the table. 
@@ -14,9 +14,8 @@ In the event of a tie a Player will always win agains the Dealer. If the tie is 
 ### Skill Test
 If the Test you are attempting is difficult due to its inherent nature or the circumstances surrounding it a Skill Test is required. In this case, as with a Contest, the characters attempting the Test Play a Card from their Hand in order to succeed. Secretly, before the Card is played the Dealer determines the required Result to pass the Skill Test. If the Character fails they gain one Experience.
 
-
 ### Surprises
-Occasionally, a Test will be called for not based on an action a Player chooses to take, but due to circumstances the Dealer creates for the Players. In cases like these, such as attacks from enemies or traps in the environment, the Test will be handled as a Surprise. A Surprise can be either a Contest or a Skill Test. They act as normal, except the surprised character Plays the top Card of the Deck directly to the Pile rather than a Card from their Hand. In addition to the normal rewards for succeeding the successful party may also add the Played card to their hand if they wish.
+Occasionally, the Dealer will call for a Test without the prompting of a Player’s actions. In cases like these, such as attacks from enemies or traps in the environment, the Test will be handled as a Surprise. A Surprise can be either a Contest or a Skill Test. They act as normal, except the surprised character Plays the top Card of the Deck directly to the Pile rather than a Card from their Hand. In addition to the normal rewards for succeeding the successful party may also add the Played card to their hand if they wish.
 
 ## Attacks
 When a Player wants to hurt another creature or an object in the world, this is usually accomplished through the use of the Attack Action. There are multiple kinds of Attacks in _Draw Your Weapon_ based on the kind of weapon you are wielding and the method with which you choose to attack.
@@ -30,7 +29,7 @@ Weapon Attacks may only be used when your character has a weapon equipped in at 
 All weapons have a Value range. This defines the maximum and minimum Value of the cards you can play to attack with the weapon. Weapons may also have associated suits listed. In order to Attack with a weapon you must play a Card within their Value range. Your Attack will deal an amount of damage to the enemy equal to the Result of the Attack. The Result is calculated by taking the Value of the Card and adding your Might if the Suit of the Card you played matches that of the weapon you used. Otherwise, the Result is equal to just the Value of the Card.
 
 ### Special Attack
-Some characters will have Features which allow them to make an Attack, or which modify your Attack action. Some examples of this include the Cheap Shot Feature and some [Magical] Features. When a Feature has the [Attack] Actions with that Feature count as an Attack Action rather than Use Ability.
+Some characters will have Features which allow them to make an Attack, or which modify your Attack action. Some examples of this include the Cheap Shot Feature and some [Magical] Features. When a Feature has the [Attack] tag Actions with that Feature count as an Attack Action rather than the Use Ability action.
 
 ## Moving
 The Move action does not encompass all forms of movement. Sidestepping, idling, and slow walking do not count as taking the Move action. Moving reflects the ability of your character to Move quickly, not just by running but also by reacting to events or avoiding danger. When the main motive of your character is to quickly get into, out of, or change a situation that will likely be a Move Action. While the Dealer may rule that other situations call for the use of the Move Action there are only two predefined uses.
@@ -42,7 +41,7 @@ While in Combat you may move yourself on your turn without the use of an Action,
 While not in combat you may take a Move action to Dash. This restricts your character’s ability to take other Actions while moving but causes you to break into a full sprint, the speed of which is determined by your Speed stat.
 
 ## Defending
-When in a dangerous situation, where danger may lurk around the corner you may wish to take the Defend Action in order to remain alert to danger. When your character is keeping watch or in combat if you have a moment to spare to brace yourself for damage you may use the Defend Action.
+When in a dangerous situation where danger may lurk around the corner, you may wish to take the Defend Action in order to remain alert to danger. When your character is keeping watch or in combat if you have a moment to spare to brace yourself for damage you may use the Defend Action.
 When Defending you become immune to Surprise Tests. When the Dealer would subject you to a Surprise Test you may choose to instead treat it as if it were not a surprise. You take the rewards and consolations as you normally would for whichever type of test you elect to treat it as. You are considered to be Defending until you take any other Action.
 
 ### Guard

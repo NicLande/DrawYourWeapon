@@ -3,7 +3,7 @@
 ### Weapons
 | Name         | Min | Max | Suit          | Tags                                      | Range | Cost |
 | :----------- | :-- | :-- | :------------ | :---------------------------------------- | :---- | :--- |
-| Battleax     | 4   | 9   | Spades        | [Two Handed]                              | x     | 5    |
+| Battleaxe     | 4   | 9   | Spades        | [Two Handed]                              | x     | 5    |
 | Bow          | 5   | 10  | Diamonds      | [Two Handed, Ammunition]                  | 8     | 3    |
 | Club         | 8   | 10  | Clubs         | [Heavy]                                   | x     | 2    |
 | Crossbow     | 4   | 10  | Diamonds      | [Ranged, Ammunition, Two Handed, Machine] | 6     | 5    |
