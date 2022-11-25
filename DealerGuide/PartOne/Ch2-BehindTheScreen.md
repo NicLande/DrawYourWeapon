@@ -1,0 +1,25 @@
+## Chapter 2: Behind The Screen
+---
+
+There are many aspects to consider when running a game of _DYW_ and many of them are at their most effective when hidden from the Players. 
+
+### Your Hand
+For the Players, their Hand is a representation of their immediate options, ideas, and physical readiness for a situation. It is something like their luck or force of will. For you, as the Dealer, your Hand represents all of the potential forces of the world working both against and in tandem with the party. Each card can mean something different when played or discarded, and when your Hand reaches its limit, the world bucks in defiance.  
+Your Maximum Hand Size is equal to double the number of Player Characters. Whenever you exceed your Maximum Hand Size you follow the same steps a Player would to discard down to normal, then a Complication occurs. Outside of combat this means you must add some complicating event to the scene. Perhaps an important plot point you were planning occurs, someone is attacked mysteriously, or combat breaks out in a tense scene. In combat this often activates a Feature of monsters the party is fighting, and combat immediately moves to the next round with the highest Level opponent taking their turn first.
+
+### Complications
+After your Hand exceeds it maximum size and you discard back down to normal a Complication occurs. In combat some creatures will have Features which list their activation as "**Complication:**", these Features begin or cause their effect immediately after resolving your exceeding of your Maximum Hand Size. Outside of combat the effects of this are up to your interpretation. You should take into account the action or effect which caused the Complication to occur, and respond accordingly. Complications need not be inherently negative, but they should always further the narrative. When deciding what a Complication entails try to keep in mind and utilize the philosophy of "yes, and" or "no, but".   
+
+### Cataclysms
+More extreme than Complications are Cataclysms. These events occur when the Library is emptied of all Cards. A Cataclysm is some event, predetermined by you, which changes the trajectory of the narrative. A Cataclysm can be any event which effects the path of the story, but it is recommended that it involves the already progressing plot of the party.  
+While you can determine the specific event in any way you wish, and may need to improvise them in some cases, there is a recommended method of generating the event when it occurs. When preparing for a story arc you should write four simple premises for a Cataclysm which tie into or further develop the story you have planned. You should then assign each of these events a suit. When a Cataclysm must occur, you wait for the Library to be reshuffled together and then Play the top Card directly form the Library. The Catacylsm assigned to the suit of the Played Card then occurs, with adaptations to fit the current situation as necessary. Should you Play a Joker you may select a Cataclysm of your choice.  
+Once the Cataclysm occurs you should remove and replace any Cataclysms which no longer fit the narrative. 
+
+### Hazards
+The world of Viatus is not a stable one. The environments and enemies the party will find themselves facing are not always simply difficult to fight in combat. At your discression, based on the location the party is in or the target they are seeking to fight, you can impose Hazards onto them. This is a blanket effect which is kept private from the party. When the effect becomes relevant you reveal as much is as is needed to impose the effect onto them. Hazards can effect them in game, through their abilites, or the Cards on the table you play on. It is recommended that you keep at least one Hazard on at all times, scaling it intensity to the party's level. Some creatures have recommended Hazards attached to them if they are the party's primary foe, and other example Hazards are listed here.
+
+**Dessert**: Used when the party is in an intensly dry area such as a dessert. All abilities with the [Sea] tag are drained of their power. Whenever a Player wishes to gain the benefit of or acticate a Feature with this tag they must play a Card. This cost is in addition to any of the Feature's normal costs.
+
+**Spy Network**: Used when the party is facing off against a leader of a network of underground operatives like spies, assassins, or even diplomats. Whenever a Player gains Clout they gain half as much. Whenever a Player spends Clout the network learns of their location and what they spent it on within 1 hour.
+
+**Nightmares**: Used when the party is facing off against a creature which has psychic or occult abilities. Whenever the party rests their foe learns of their location, and you (The Dealer) may steal a Card from among the Cards they discarded when Resting.
