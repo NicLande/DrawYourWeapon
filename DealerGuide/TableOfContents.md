@@ -7,9 +7,9 @@
 * Part 1 - Running The Game
     * [Ch2 - Behind the Screen](PartOne/Ch2-BehindTheScreen.md)
         * Your Hand
-        * Hazards
         * Complications
         * Cataclysms
+        * Hazards
     * Layers of Story
         * Scenes
         * Arcs
