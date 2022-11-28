@@ -1,8 +1,16 @@
 ## Chapter 2: Character Creation
 ---
 
-## Guide
+### Guide
 After your group has decided when and where to play and who will be the Dealer you all must work together to create a party of characters to adventure together. This process should be collaborative, with many aspects involving input from the rest of the table, but your character is yours to mold and shape. You make the decisions on how they are built and what their path will be. In order to create your character you will select several aspects of them from lists and others will be purchased with Build. At the end of this chapter you should have the full understanding of all the aspects which go into creating a character in _DYW_.
+
+**Character Concept**
+
+**Signature Ability:** Next comes your character’s Signature Ability. This is a central pillar of your character and grants them several free Features, Equipment, and other benefits as they gain Levels. This costs no Build.
+
+**Style:** After you determine your Attributes you must select your character’s Style from a list. This is the most apparent character trait of your character and determines how you will primarily Draw Cards. This costs no Build.
+
+**Relationships:** With the basics of your character defined you can now define how they relate to the other characters being made at the table. Discuss with each other Player how your characters would know each other, if they do. This costs no Build.
 
 **Build:** You begin the character creation process with 12 Build, which is used as a currency in order to create your character. Build is spent on your Attributes, Features, and Equipment with any leftover being converted into Experience at the end of the process.
 
@@ -17,151 +25,36 @@ After your group has decided when and where to play and who will be the Dealer y
 | 4 | 10 |
 | 5 | 15 |
 
-**Style:** After you determine your Attributes you must select your character’s Style from a list. This is the most apparent character trait of your character and determines how you will primarily Draw Cards. This costs no Build.
-
-**Signature Ability:** Next comes your character’s Signature Ability. This is a central pillar of your character and grants them several free Features, Equipment, and other benefits as they gain Levels. This costs no Build.
-
 **Features:** After gaining your central Features from your Signature Ability you may spend Build on Features. These allow your character to perform a variety of Actions and grant many passive benefits. Their Build costs are listed in their descriptions. 
-
-**Relationships:** With the basics of your character defined you can now define how they relate to the other characters being made at the table. Discuss with each other Player how your characters would know each other, if they do. This costs no Build.
 
 **Inventory:** The final step in creating a character is determining what items they carry on them. You may purchase Equipment in the same manner you purchased Features. The list of Equipment is located at the end of this book in Appendix B.
 
 **Finish Up:** If you have any Build remaining at the end of the character creation process you may go back to earlier steps and spend it, or save it for later where it is converted into Experience to spend at a later time.
 
-## Attributes
-As a Player Character in _Draw Your Weapon_ your ability to perform certain kinds of actions are defined by certain Attributes your character has. These Attributes roughly determine your affinity and skill with certain types of actions. The five Attributes are Might, Endurance, Finesse, Intelligence, Wits, and Charm. For Player Characters these abilities may not be lower than 0 (slightly below average for a normal person) or higher than 5 (beyond the peak of an ordinary person).
 
-### Derived Stats
-Each Attribute has a Stat linked to it which derives its value from the value of the attribute. Each of these has a function in the game and serves multiple functions. Each of these Stats basic function and value are explained along with their linked Attribute.
-
-### Determining Attributes
-In order to determine your Player Character’s Attributes at level 1 you spend points and allocate them as you wish. You have 10 points to spend as you wish. Each Attribute begins at 0 and grows by 1 for each point spent. No Attribute may exceed 5.
-
-> ### Optional Rule: Negative Scores
-> In the exceptional case where to accurately represent a character you need a score which falls below 0. In this case, if your Dealer agrees, you may lower a score of your choice to -1 and gain one extra point to spend on your other Attributes. When a score has a value of -1 and that Attribute can be applied to a Test, Attack, or other form of Played Card rather than adding the Score if you Play a Card of a specific Suit you add the Score in the event that you fail to Play the Card of the associated Suit.
-
-#### Might
-A Player Character’s physical strength is represented by their Might Score. The ability to lift and carry objects, the strength of their weapon strikes, and contests of power are all often resolved by referencing a character’s Might. Might is most often associated with Clubs and Spades.
-
-#### Guard 
-Guard is the Stat linked to Might. It represents your ability to react to attacks and take damage without getting hurt. Guard is made up of three Values: Current Guard, Guard Refresh, and Maximum Guard.
-Whenever you take damage from a source with no tags or a weapon you take the damage to your Current Guard before it applies to your HP. If your Current Guard is reduced to 0 you gain the Broken Condition. Guard Refresh represents how much Guard you gain when you take the Defend Action. Maximum Guard is the maximum amount your Current Guard can reach. If you would gain Guard and go above your Maximum you stop after reaching Maximum.
-Your Current Guard begins at 0. Your Guard Refresh is defined as 1+(Level Bonus)+(Other Bonuses). Your Maximum Guard begins at 5+(Your Might*Your Level)+(Other Bonuses).
-
-#### Endurance
-Endurance measures a Player Character’s health and wellbeing. The constitution, stamina, and grit of a character relies on their Endurance Score. Endurance is most often associated with Clubs and Hearts.
-
-##### HP
-HP is the Stat linked with Endurance. It represents the amount of damage your character can withstand before collapsing. HP is a resource which can be lost and gained throughout playing _DYW_. You gain no innate benefits from having it and there are no penalties when losing it until you reach 0. When you run out of HP your character will begin to die. This process is outlined in the Combat chapter. You cannot go above your Maximum HP.  
-Your maximum HP is defined at 5+(Your Endurance*Your Level)+(Level Bonus)+(Other Bonuses). You begin play with Current HP equal to your Maximum.
-
-#### Finesse
-A character’s dexterity, speed, and fine motor control are all represented by their Finesse score. Finesse is most often used in reference to checks regarding balancing, using tools, operating vehicles, or feats of acrobatics. Finesse is most often associated with Spades and Diamonds.
-
-##### Speed
-Speed is the Stat linked to Finesse. Speed defines not only your ability to move but also your ability to quickly execute tasks while under pressure. Whenever you move in combat you consume Speed. Moving 1 unit, drawing a weapon, and executing a simple task while in combat all consume 1 Speed. Much like Guard and HP you cannot go above your Maximum Speed.  
-Your Speed is defined as 5+(Your Finesse)+(Other Bonuses)+(Level Bonus). At Level 1 your Level Bonus is 0 and is further explained in Chapter 3.
-
-#### Wits
-The Wits score of a Player Character is representative of their ability to read a situation, adapt well under pressure, and understand complex social dynamics. Wits is most often used to resolve interactions regarding reading the intent of another person, solving puzzles, or perceiving dangerous surroundings. This Score is most often associated with Spades and Hearts.
-
-##### Max Hand Size
-Max Hand Size is the Stat linked with Wits. It is a representation of your ability to collect and utilize whatever situation you find yourself in to your advantage.  Your Max Hand Size impacts only the maximum number of Cards you may have in your Hand at any given time. The details of this are covered in Chapter 4.  
-Your Max Hand Size is defined as 5+(Your Wits)+(Level Bonus). At Level 1 your Level Bonus is 0 and is further explained in Chapter 3.
-
-#### Intelligence
-Intelligence is a representation of your Player Character’s learned knowledge, ability to piece together information, and confidently put their knowledge to use. This Attribute is most often used to determine a character’s ability to apply knowledge they have, recall information, and do research. This Score is most often associated with Clubs  and Diamonds.
-
-##### Reserve
-Reserve is the Stat linked with Intelligence. It is a representation of how prepared your character is for any situation. Whenever a situation calls for equipment or strategic forethought that your character does not explicitly have the ability to accomplish you may expend Reserve to make up that deficit. Whenever you make a Test involving a situation wherein your situation would be made possible or easier by having certain equipment or a specific plan in place beforehand you may expend Reserve to lower the Target by an amount equal to the amount spent. At the discretion of the Dealer you may also expend Reserve to complete Tests without Playing a Card or to accomplish simple tasks which require certain equipment. The expenditure of Reserve represents your character running low on expendable resources and plans, while at 0 Reserve you may find that your character fails to produce items which you otherwise take for granted such as torches or food. As with the other Stats which are used as a resource you may not exceed your Reserve’s maximum.
-Your Reserve is defined as 5+(Your Intelligence*Your Level)+(Level Bonus)+(Other Bonuses). You begin the game with all of your Reserve.
-
-#### Charm
-A character who can speak well, collect their thoughts effectively, and inspire others will have a correspondingly high Charm. Charm is most often used in the resolution of tests involving deceiving another person, inspiring another person, or persuading someone. Charm is most often associated with Diamonds and Hearts.
-
-##### Clout
-Clout is the Stat linked with Charm. It is a representation of your social pull. Unlike the other Stats this value may fluctuate frequently based on the location around you. As such, the value on your character sheet should be assumed as a default rather than the definitive value. Clout acts similarly to Reserve, but serves a different function. Clout may be used to lower the Target of a Test in the same way as Reserve, however the Test must involve some form of social manipulation or understanding. Where Reserve may be used to produce a rope to climb a wall, Clout may be used to convince a passing guardsman there is no reason to be suspicious. The expenditure of Clout indicates that those around you may be growing impatient, distrustful, or hurt by your actions and should be expended carefully. As with the other Stats which are used as a resource you may not exceed your Clout’s maximum.
-Your Clout is defined as 5+(Your Charm*Your Level)+(Level Bonus)+(Other Bonuses)+(Any Modifiers From The Dealer). You begin the game with all of your Clout.
-
-
-## Style
-Every Player Character will have a Style, a general attitude towards problem solving which guides their decision making and abilities. Each Style grants a special, unique ability which allows you to draw cards as an action or under a special condition. While this is the only mechanical impact of your Style, they are also meant to reflect a large aspect of your Player Character’s demeanor, morals, or impression on others. There are no penalties towards acting against your Player Character’s Style, as all people are multifaceted and may act in contradictory ways, however if you never or only rarely act in accordance with your Style the Dealer may ask you to switch to another which suits your actions in game more closely. 
-
-### Choosing a Style
-After determining your character’s Attributes you may select their Style from the following list. The list includes an abbreviated description of how the Ability functions for that Style, and a full description follows in the section after.
-
-| Style Name | Draw | Cost |
-|------------|------|------|
-|Cautious | Draw a Card | The Dealer Draws a Card |
-|Cowardly | Draw a Card | Discard the top Cards of the Pile equal to your Hand Size |
-| Deceitful | Draw a Card | Discard a Card from the Deck |
-| Determined | Draw a Card | Play the top two cards from the Deck |
-| Generous | Give one Card to another Player | The Dealer takes the top Card from the Pile, Deck, or a card from your Void |
-|Honorable | Draw a Card, Reveal that Card | The Dealer Draws a Card and then Reveals it |
-| Insightful | Draw one of the top two Cards from the Deck after looking at them | The Dealer draws a Card from the Void |
-| Jealous | Take another Player's Card from their Hand randomly | Only if you have the fewest Cards in Hand |
-| Opportunistic | Draw the top Card of the Pile | Discard the top card of the Deck |
-
-### Styles List
-
-
-**Cautious**  
-    As an Action you may Draw a Card from the Deck. When you do so the Dealer may also Draw a Card from their Deck. 
-
-**Cowardly**  
-    As an Action you may Draw a Card. Immediately after that you must Discard a number of Cards from the top of the Player Pile into the Void equal to the new size of your Hand. If the Pile is smaller than your Hand, Discard the remaining Cards from the top of the Deck.
-
-**Deceitful**  
-    As an Action you may Draw a Card from the Deck. If you do so you must immediately then Discard the top Card of the Deck into your Void.
-
-**Determined**  
-    As an Action you may Draw a Card from the Deck. After doing so you must immediately Play the top two Cards of the Deck.
-
-**Generous**  
-    As an Action you may have another Player Draw a Card of your choice from your Hand. After this, you may Draw a Card from the Deck. Finally, the Dealer may Draw the top Card of the Deck, Pile, or any Card from your Void.
-
-**Honorable**  
-    As an Action you may Draw a Card from the Deck. You must then reveal the Card to the Players and the Dealer. When you do so the Dealer may also Draw a Card from their Deck and must also reveal that Card to every Player. 
-
-**Insightful**  
-    As an Action you may look at the top two Cards of the Deck and then Draw one. You then must place the other Card back on top of the Deck. After all of this, the Dealer may Draw a Card of their choice from either their Void or your Void. If both Voids are empty they may instead Draw the top two Cards of their Deck.
-
-**Jealous**  
-    As an Action you may Draw a random Card from another Player’s Hand. In order to do so you must have the smallest Hand size of any Player. If you are tied for the smallest Hand Size you may only Draw a Card from a larger Hand than your own.
-
-**Opportunistic**  
-    As an Action you may Draw the top Card of the Pile. No Card may ever enter your Hand this way if it has already been in your Hand this session. After Drawing a Card this way you must Discard the top Card of each Deck into their respective Void.
-
-
-
-
-
-
-
-## Signature Abilities
+### Signature Abilities
 Every Player Character in _DYW_  has a diverse collection of skills, abilities, and qualities. However, in order to help realize certain archetypal characters you will select a Signature Ability which grants you an assortment of unique abilities and grants you Features you would otherwise need to purchase during character creation or with Experience later in the game.
 
-### Initial Benefits
+#### Initial Benefits
 When you create a character you must select a Signature Ability from the list below. Initially this will grant you a few core Features and grant you certain benefits unique to your Signature Ability. These Features will help to define your character’s core play style. Certain Signature Abilities also grant you the option to select Equipment or Features with certain restrictions.
 
-### Abilities at Higher Levels
+#### Abilities at Higher Levels
 Your Signature Ability will also grow with you. As you gain Levels you will occasionally be granted further Features and benefits from your Signature Ability. If you already had any of these Features you may instead select any Feature with a cost less than or equal to the Feature you would have gained from your Signature Ability.
 
 
-### Signature Ability List
+#### Signature Ability List
     
 **Aeromancer**
 
 **1st Level:**  
 _Passive Bonus:_ Whenever a creature you can see changes its position in initiative you may knock it prone if you have a Full House in hand.  
-Features: Sky Affinity; Basic Aeromancy  
+Features: Sky Affinity; Aeromancy Novice
 **3rd Level:**   
-    _Features:_ Adept Aeromancy  
+    _Features:_ Aeromancy Adept  
 **5th Level:**  
-    _Features:_ Sky Master  
+    _Features:_ Sky Mastery  
 **7th Level:**   
-    _Features:_ Advanced Aeromancy  
+    _Features:_ Aeromancy Master 
 **10th Level:**  
     _Features:_ Storm Supremacy  
 **14th Level:**  
@@ -171,7 +64,7 @@ Features: Sky Affinity; Basic Aeromancy
 
 **1st Level:**  
 _Passive Bonus:_ After initiative has been decided but before the first creature takes its turn you may move another creature up or down in initiative by one space; Whenever a creature you can see Plays a Card from a hand other than their own you may increase or decrease its value by up to your level so long as the top Card of the Pile is a Facecard      
-_Features:_ Balanced; Inspiring Leader  
+_Features:_ Balanced; Inspiring Presence  
 **3rd Level:**   
     _Features:_ Armor Adept  
 **5th Level:**  
@@ -220,13 +113,13 @@ _Features:_ Unarmed Adept; Fleet Feet
 
 **1st Level:**  
     _Passive Bonus:_ Whenever earthen terrain is modified within your line of sight you may amplify or minimize the effect. You may increase or decrease the radius of the effect by up to half your level (minimum of 1) if you have a Full House in your Hand, though this ability cannot reduce the size below half its original radius, or above your level.     
-_Features:_ Earth Affinity, Basic Geomancy  
+_Features:_ Earth Affinity, Geomancy Novice 
 **3rd Level:**  
-    _Features:_ Adept Geomancy  
+    _Features:_ Geomancy Adept  
 **5th Level:**  
     _Features:_ Earth Mastery  
 **7th Level:**  
-    _Features:_ Advanced Geomancy  
+    _Features:_ Geomancy Master  
 **10th Level:**  
     _Features:_ Terran Supremacy  
 **14th Level:**  
@@ -236,13 +129,13 @@ _Features:_ Earth Affinity, Basic Geomancy
 
 **1st Level:**  
     _Passive Bonus:_ Whenever an Ability calls for a random Card in Hand if you have a Full House in Hand you may instead reveal the Hand and choose the Card yourself.     
-_Features:_ Basic Hydromancy, Sea Affinity  
+    _Features:_ Sea Affinity, Hydromancy Novice  
 **3rd Level:**  
-    _Features:_ Adept Hydromancy  
+    _Features:_ Hydromancy Adept  
 **5th Level:**  
     _Features:_ Sea Mastery  
 **7th Level:**  
-    _Features:_ Advanced Hydromancy  
+    _Features:_ Hydromancy Master   
 **10th Level:**  
     _Features:_ Sea Supremacy  
 **14th Level:**  
@@ -301,13 +194,13 @@ _Features:_ Patch Up
 
 **1st Level:**  
     _Passive Bonus:_ Whenever you deal [Sun] damage to a creature you may increase the damage by your level if you have a Full House in hand     
-_Features:_ Basic Pyromancy, Sun Adept  
+_Features:_ Pyromancy Novice, Sun Adept  
 **3rd Level:**   
-    _Features:_ Adept Pyromancy  
+    _Features:_ Pyromancy Adept  
 **5th Level:**  
     _Features:_ Sun Mastery  
 **7th Level:**  
-    _Features:_ Advanced Pyromancy  
+    _Features:_ Pyromancy Master  
 **10th Level:**  
     _Features:_ Solar Supremacy  
 **14th Level:**  
@@ -334,27 +227,242 @@ _Equipment:_ Dagger
 
 **1st Level:**  
     _Passive Bonus:_ Whenever a Card is Played to the Pile by an effect you can see you can cause that Card to instead go directly to the Void by Playing any Card from your Hand. When you do so the ability activates as normal, and fully resolves before the Card is Moved.      
-_Features:_ Basic Umbramancy, Void Affinity  
+_Features:_ Umbramancy Novice, Void Affinity  
 **3rd Level:**   
-    _Features:_ Adept Umbramancy  
+    _Features:_ Umbramancy Adept  
 **5th Level:**  
     _Features:_ Void Mastery  
 **7th Level:**  
-    _Features:_ Advanced Umbramancy  
+    _Features:_ Umbramancy Master  
 **10th Level:**  
     _Features:_ Shadow Supremacy  
 **14th Level:**  
-    _Passive Bonus:_ Whenever your party Rests you may choose to Draw any of your new Cards from the Void rather than the Library.  
+    _Passive Bonus:_ Whenever your party Rests you may choose to Draw any of your new Cards from the Void rather than the Library.
 
-## Features
+### Style
+Every Player Character will have a Style, a general attitude towards problem solving which guides their decision making and abilities. Each Style grants a special, unique ability which allows you to draw cards as an action or under a special condition. While this is the only mechanical impact of your Style, they are also meant to reflect a large aspect of your Player Character’s demeanor, morals, or impression on others. There are no penalties towards acting against your Player Character’s Style, as all people are multifaceted and may act in contradictory ways, however if you never or only rarely act in accordance with your Style the Dealer may ask you to switch to another which suits your actions in game more closely. 
+
+#### Choosing a Style
+After determining your character’s Attributes you may select their Style from the following list. The list includes an abbreviated description of how the Ability functions for that Style, and a full description follows in the section after.
+
+| Style Name | Draw | Cost |
+|------------|------|------|
+|Cautious | Draw a Card | The Dealer Draws a Card |
+|Cowardly | Draw a Card | Discard the top Cards of the Pile equal to your Hand Size |
+| Deceitful | Draw a Card | Discard a Card from the Deck |
+| Determined | Draw a Card | Play the top two cards from the Deck |
+| Generous | Give one Card to another Player | The Dealer takes the top Card from the Pile, Deck, or a card from your Void |
+|Honorable | Draw a Card, Reveal that Card | The Dealer Draws a Card and then Reveals it |
+| Insightful | Draw one of the top two Cards from the Deck after looking at them | The Dealer draws a Card from the Void |
+| Jealous | Take another Player's Card from their Hand randomly | Only if you have the fewest Cards in Hand |
+| Opportunistic | Draw the top Card of the Pile | Discard the top card of the Deck |
+
+#### Styles List
+
+
+**Cautious**  
+    As an Action you may Draw a Card from the Deck. When you do so the Dealer may also Draw a Card from their Deck. 
+
+**Cowardly**  
+    As an Action you may Draw a Card. Immediately after that you must Discard a number of Cards from the top of the Player Pile into the Void equal to the new size of your Hand. If the Pile is smaller than your Hand, Discard the remaining Cards from the top of the Deck.
+
+**Deceitful**  
+    As an Action you may Draw a Card from the Deck. If you do so you must immediately then Discard the top Card of the Deck into your Void.
+
+**Determined**  
+    As an Action you may Draw a Card from the Deck. After doing so you must immediately Play the top two Cards of the Deck.
+
+**Generous**  
+    As an Action you may have another Player Draw a Card of your choice from your Hand. After this, you may Draw a Card from the Deck. Finally, the Dealer may Draw the top Card of the Deck, Pile, or any Card from your Void.
+
+**Honorable**  
+    As an Action you may Draw a Card from the Deck. You must then reveal the Card to the Players and the Dealer. When you do so the Dealer may also Draw a Card from their Deck and must also reveal that Card to every Player. 
+
+**Insightful**  
+    As an Action you may look at the top two Cards of the Deck and then Draw one. You then must place the other Card back on top of the Deck. After all of this, the Dealer may Draw a Card of their choice from either their Void or your Void. If both Voids are empty they may instead Draw the top two Cards of their Deck.
+
+**Jealous**  
+    As an Action you may Draw a random Card from another Player’s Hand. In order to do so you must have the smallest Hand size of any Player. If you are tied for the smallest Hand Size you may only Draw a Card from a larger Hand than your own.
+
+**Opportunistic**  
+    As an Action you may Draw the top Card of the Pile. No Card may ever enter your Hand this way if it has already been in your Hand this session. After Drawing a Card this way you must Discard the top Card of each Deck into their respective Void.
+
+### Relationships
+Your character does not exist on their own; _DYW_  is played as part of a party of characters. The dynamics between your characters can often form the narrative and emotional core of the stories told with this system. To represent some aspects of the party dynamic you are able to define your Relationship to each of the other characters in your party at character creation. These Relationships give niche mechanical abilities but are also a narrative tool for yourself and the other Players to help advance the story  of the game.  
+#### Acquiring Relationships
+During the character creation process you will ideally be speaking to the other Players and the Dealer about the kind of game you wish to play and the character you wish to inhabit within that game. Once each of you has a rough idea of the type of character you are building you can each choose to define your relationship to one another. When you do so select a relationship from the list below. The relationship you select is what the other character is for you. For example, should you choose Boss, you are defining the other character as your character’s boss in some capacity. Relationships may have a prerequisite, this will define what Relationship the other Player must choose for your character in order for your selection to be valid. Once you have made your choice make sure to discuss the specifics of the Relationship with the Dealer and the other Player. Guidance on what questions to answer are provided in the description of each Relationship, but the depth and breadth of the questions you answer are up to yourself and the other Player.
+
+
+
+#### Relationship Options
+
+#### Bodyguard -  
+**Prerequisite(s):** Boss  
+**Description:**    
+This character is your bodyguard. They have devoted themself, or a part of themself, to protecting you. Discuss with the Dealer and the other Player why and how they have come into your service, and where their loyalty may end.  
+**Feature:**  
+When taking the Guard Action while within 1 unit of your bodyguard, you may use their Guard Refresh in place of your own. In addition, when making a surprise test if your bodyguard is within 1 unit of you you may use their attributes in place of your own.  
+
+#### Boss -  
+**Prerequisite(s):** Bodyguard or Employee  
+**Description:**  
+This character is your boss. They may have hired you or acquired your services in other ways. Regardless, you are in their employ and serve them dutifully. Discuss with the Dealer and the other Player how you came into their service and why.  
+**Feature:**   
+    Whenever you are able to spend Clout if your boss is within 5 units of you they may spend their Clout in place of your own. You may not divide the cost between you.  
+
+#### Childhood Friend -  
+**Prerequisite(s):** Childhood Friend  
+**Description:**  
+You and this character go way back. Perhaps you separated long ago and are just now reuniting, or you never left their side. Regardless, you know them well and you trust each other strongly. Speak to the Dealer and the other Player about what you may know about each other.
+**Feature:**  
+When your childhood friend takes the Trade Action on a Breather you may also Trade a card with their target at no cost.  
+
+#### Employee -  
+**Prerequisite(s):** Boss  
+**Description:**  
+This character is your employee. The exact capacity in which they serve you can be broad or incredibly narrow. You should discuss with the Dealer and the other Player how and why they serve you and the extent of their duties.  
+**Feature:**  
+Whenever your employee succeeds on a Test by spending Clout or Reserve while within 5 units of you, you gain 1 Clout.  
+
+#### Enemy -  
+**Prerequisite(s):** None  
+**Description:**  
+In the past this character has done something awful to you. Perhaps they commited a crime at your expense or they hurt you in a personal way. Whatever the case make sure to discuss the specifics with the Dealer and the other Player, and make sure that there is ample reason for you two to cooperate on this adventure.  
+**Feature:**  
+Whenever your enemy makes a Surprise Test you may look at the top Card of the Deck before the Test occurs. You may then move it to the bottom of the Deck. If your enemy fails a Test they lose one Clout and you gain one Clout.  
+
+#### Idol -  
+**Prerequisite(s):** None  
+**Description:**   
+This character has done something in the past to earn your admiration. In your eyes they can do no wrong. Perhaps you see them as a powerful hero or you have unrequited feelings for them. Speak to the other Player and the Dealer about what they may have done to earn this admiration and how they feel about how you view them.   
+**Feature:**   
+Whenever your idol Plays a Card and you are within 5 units of them you may spend Clout equal to the Card's Value. If you do so the Card is put into your Hand rather than the top of the Pile.  
+
+#### Lover -  
+**Prerequisite(s):** Lover  
+**Description:**   
+You are infatuated with this character. You are either in a relationship with them or have some other romantic entanglement with them. There may be other competitors for their affection but you are (at the moment) the winner. Speak to the Dealer and the other Player about the specifics of your relationship as well as what you are comfortable role playing throughout the game.  
+**Feature:**   
+You and your lover share Clout. When determining your Clout pool you add each of your pools together. Whenever you spend, lose, or gain clout your lover loses or gains an equal amount.  
+
+#### Mentor -
+**Prerequisite(s):** Pupil or Idol  
+**Description:**  
+This character is your mentor. Perhaps they trained you in a skill you have, or are more of an emotional guide for you. Regardless, you look to them for guidance before anyone else in the party. Discuss with the Dealer and the other Player in what way they mentor you and how you met.  
+**Feature:**   
+Whenever you Trade with your Mentor during a Breather you may draw a card if they have more Cards in Hand than you.  
+
+#### Pupil -  
+**Prerequisite(s):** Mentor  
+**Description:**   
+This character is your pupil. You have either trained or guided them in some meaningful way. However, you may learn more from them than they do from you. Discuss with the Dealer and the other Player what you have taught them and why you have chosen to be their mentor.  
+**Feature:** 
+Whenever you Trade with your Pupil during a Breather you may draw a card if you do not have more Cards in Hand than them.  
+
+#### Relative -
+**Prerequisite(s):** Relative  
+**Description:**  
+You and this character are related. They may be an uncle, cousin, member of your nuclear family, or some other relative. Whatever your relation is exactly you are similar in many ways and have a strong innate connection. Discuss with the Dealer and the other Player any features, mannerisms, or other qualities you share because of this relationship.  
+**Feature:**  
+If you and your relative do not share the same Style you may use their Style rather than your own once per Rest. If you do share a Style with your relative you both must agree on a Style other than your own. You may each use it once per Rest in place of your own Style.  
+
+#### Rival -
+**Prerequisite(s):** None  
+**Description:**  
+You see this character as a rival in some way. Perhaps in love or combat. Regardless of the source you now see any chance to compete as a way to catch up to them. This can be a friendly rivalry or more toxic, discuss with the Dealer and other Player the specifics of how this rivalry began and how it manifests.  
+**Feature:**   
+Whenever your rival takes an Action and you immediately take the same Action you gain a +1 bonus to any Tests involved or any numerical effects of that action. For example if your rival takes the Guard Action and then you immediately take the same Action you gain 1 additional Guard than your normal amount. If the Action was a Test and you fail you lose Clout equal to your rival's Charm (minimum of 1).  
+
+#### Stranger -
+**Prerequisite(s):** None  
+**Description:**   
+You do not know this character yet. At a later point in the game if you, the other Player, and the Dealer feel it is appropriate you may update this Relationship to something more appropriate once your characters are acquainted.  
+**Feature:**   
+Whenever you Trade with a stranger during a Breather you may either Trade an additional card each or regain 1 Clout and 1 Reserve.  
+
+#### Suspect -  
+**Prerequisite(s):** None  
+**Description:** 
+Something about this character has piqued your interest, and not in a good way. While you don't have any hostility towards them yet you have some reason to believe they are hiding something. Speak to the Dealer and other Player about what you do and don't know about their character, and have the other Player and Dealer confer about what the truth is. If later in the game you feel your suspicions have been confirmed or denied you may switch this relationship to another relationship as deemed appropriate by the Dealer and yourself.   
+**Feature:**  
+Whenever your suspect Discards a Card and you are within 5 units of them you may spend Clout or Reserve equal to the Card's Value. If you do so the Card is put into your Hand rather than the Void.  
+
+#### Victim -  
+**Prerequisite(s):** None  
+**Description:**  
+You have done something to this character in the past. Something which hurt them. Perhaps you feel remorse, or perhaps you revel in their suffering. Whatever the case you should discuss with the Dealer and the other Player what exactly you have done to them, whether or not they are aware of it, and why you choose to adventure with each other.  
+**Feature:**  
+Whenever your victim takes the Trade action with a character other than yourself during a Breather you may use your Action to expand on their story. When you do so if you spend an amount of Clout equal to the Value of the Card your victim trades away you may then Draw a Card.  
+
+### Attributes
+As a Player Character in _Draw Your Weapon_ your ability to perform certain kinds of actions are defined by certain Attributes your character has. These Attributes roughly determine your affinity and skill with certain types of actions. The five Attributes are Might, Endurance, Finesse, Intelligence, Wits, and Charm. For Player Characters these abilities may not be lower than 0 (slightly below average for a normal person) or higher than 5 (beyond the peak of an ordinary person).
+
+#### Derived Stats
+Each Attribute has a Stat linked to it which derives its value from the value of the attribute. Each of these has a function in the game and serves multiple functions. Each of these Stats basic function and value are explained along with their linked Attribute.
+
+#### Determining Attributes
+In order to determine your Player Character’s Attributes at level 1 you spend points and allocate them as you wish. You have 10 points to spend as you wish. Each Attribute begins at 0 and grows by 1 for each point spent. No Attribute may exceed 5.
+
+> #### Optional Rule: Negative Scores
+> In the exceptional case where to accurately represent a character you need a score which falls below 0. In this case, if your Dealer agrees, you may lower a score of your choice to -1 and gain one extra point to spend on your other Attributes. When a score has a value of -1 and that Attribute can be applied to a Test, Attack, or other form of Played Card rather than adding the Score if you Play a Card of a specific Suit you add the Score in the event that you fail to Play the Card of the associated Suit.
+
+**Might**
+A Player Character’s physical strength is represented by their Might Score. The ability to lift and carry objects, the strength of their weapon strikes, and contests of power are all often resolved by referencing a character’s Might. Might is most often associated with Clubs and Spades.
+
+__**Guard**__ 
+Guard is the Stat linked to Might. It represents your ability to react to attacks and take damage without getting hurt. Guard is made up of three Values: Current Guard, Guard Refresh, and Maximum Guard.
+Whenever you take damage from a source with no tags or a weapon you take the damage to your Current Guard before it applies to your HP. If your Current Guard is reduced to 0 you gain the Broken Condition. Guard Refresh represents how much Guard you gain when you take the Defend Action. Maximum Guard is the maximum amount your Current Guard can reach. If you would gain Guard and go above your Maximum you stop after reaching Maximum.
+Your Current Guard begins at 0. Your Guard Refresh is defined as 1+(Level Bonus)+(Other Bonuses). Your Maximum Guard begins at 5+(Your Might*Your Level)+(Other Bonuses).
+
+**Endurance**
+Endurance measures a Player Character’s health and wellbeing. The constitution, stamina, and grit of a character relies on their Endurance Score. Endurance is most often associated with Clubs and Hearts.
+
+__**HP**__
+HP is the Stat linked with Endurance. It represents the amount of damage your character can withstand before collapsing. HP is a resource which can be lost and gained throughout playing _DYW_. You gain no innate benefits from having it and there are no penalties when losing it until you reach 0. When you run out of HP your character will begin to die. This process is outlined in the Combat chapter. You cannot go above your Maximum HP.  
+Your maximum HP is defined at 5+(Your Endurance*Your Level)+(Level Bonus)+(Other Bonuses). You begin play with Current HP equal to your Maximum.
+
+**Finesse**
+A character’s dexterity, speed, and fine motor control are all represented by their Finesse score. Finesse is most often used in reference to checks regarding balancing, using tools, operating vehicles, or feats of acrobatics. Finesse is most often associated with Spades and Diamonds.
+
+__**Speed**__
+Speed is the Stat linked to Finesse. Speed defines not only your ability to move but also your ability to quickly execute tasks while under pressure. Whenever you move in combat you consume Speed. Moving 1 unit, drawing a weapon, and executing a simple task while in combat all consume 1 Speed. Much like Guard and HP you cannot go above your Maximum Speed.  
+Your Speed is defined as 5+(Your Finesse)+(Other Bonuses)+(Level Bonus). At Level 1 your Level Bonus is 0 and is further explained in Chapter 3.
+
+**Wits**
+The Wits score of a Player Character is representative of their ability to read a situation, adapt well under pressure, and understand complex social dynamics. Wits is most often used to resolve interactions regarding reading the intent of another person, solving puzzles, or perceiving dangerous surroundings. This Score is most often associated with Spades and Hearts.
+
+__**Max Hand Size**__
+Max Hand Size is the Stat linked with Wits. It is a representation of your ability to collect and utilize whatever situation you find yourself in to your advantage.  Your Max Hand Size impacts only the maximum number of Cards you may have in your Hand at any given time. The details of this are covered in Chapter 4.  
+Your Max Hand Size is defined as 5+(Your Wits)+(Level Bonus). At Level 1 your Level Bonus is 0 and is further explained in Chapter 3.
+
+**Intelligence**
+Intelligence is a representation of your Player Character’s learned knowledge, ability to piece together information, and confidently put their knowledge to use. This Attribute is most often used to determine a character’s ability to apply knowledge they have, recall information, and do research. This Score is most often associated with Clubs  and Diamonds.
+
+__**Reserve**__
+Reserve is the Stat linked with Intelligence. It is a representation of how prepared your character is for any situation. Whenever a situation calls for equipment or strategic forethought that your character does not explicitly have the ability to accomplish you may expend Reserve to make up that deficit. Whenever you make a Test involving a situation wherein your situation would be made possible or easier by having certain equipment or a specific plan in place beforehand you may expend Reserve to lower the Target by an amount equal to the amount spent. At the discretion of the Dealer you may also expend Reserve to complete Tests without Playing a Card or to accomplish simple tasks which require certain equipment. The expenditure of Reserve represents your character running low on expendable resources and plans, while at 0 Reserve you may find that your character fails to produce items which you otherwise take for granted such as torches or food. As with the other Stats which are used as a resource you may not exceed your Reserve’s maximum.
+Your Reserve is defined as 5+(Your Intelligence*Your Level)+(Level Bonus)+(Other Bonuses). You begin the game with all of your Reserve.
+
+**Charm**
+A character who can speak well, collect their thoughts effectively, and inspire others will have a correspondingly high Charm. Charm is most often used in the resolution of tests involving deceiving another person, inspiring another person, or persuading someone. Charm is most often associated with Diamonds and Hearts.
+
+__**Clout**__
+Clout is the Stat linked with Charm. It is a representation of your social pull. Unlike the other Stats this value may fluctuate frequently based on the location around you. As such, the value on your character sheet should be assumed as a default rather than the definitive value. Clout acts similarly to Reserve, but serves a different function. Clout may be used to lower the Target of a Test in the same way as Reserve, however the Test must involve some form of social manipulation or understanding. Where Reserve may be used to produce a rope to climb a wall, Clout may be used to convince a passing guardsman there is no reason to be suspicious. The expenditure of Clout indicates that those around you may be growing impatient, distrustful, or hurt by your actions and should be expended carefully. As with the other Stats which are used as a resource you may not exceed your Clout’s maximum.
+Your Clout is defined as 5+(Your Charm*Your Level)+(Level Bonus)+(Other Bonuses)+(Any Modifiers From The Dealer). You begin the game with all of your Clout.
+
+
+
+
+  
+
+### Features
 Every character has Features which represent their unique qualities and affinities in ways Attributes and a Style alone cannot. Features can affect both the world of the game and the mechanics of your character. They may allow you to take a special action, modify an existing action, grant you a passive bonus, or more.
 
 
-### Acquiring Features
+#### Acquiring Features
 In order to acquire a Feature you must meet two conditions. Firstly, you must meet all Prerequisites listed on the description of the Feature. Then you must spend an amount of Build equal to the Value of the Feature. You may then add the Feature to your character sheet.
 If a Feature has a prerequisite you do not yet meet but can acquire through character creation you may acquire the Feature so long as you meet the prerequisite after completing character creation.
 
-### Tags
+#### Tags
 Each Feature may have tags. These tags also apply to any effects or damage created through the ability. For instance the Basic Pyromancy Feature grants the ability to make a special attack. The damage dealt by this attack shares all of the tags of the Feature.
 Most of these tags have no effect on their own, but may be modified by other Features from yourself or others. Most commonly any Resistance from a target will apply based on the tags of your Features. The following tags are exceptions and impose special conditions on the Features to which they are attached.
 
@@ -469,121 +577,16 @@ Most of these tags have no effect on their own, but may be modified by other Fea
 
 
 
-## Relationships
-Your character does not exist on their own; _DYW_  is played as part of a party of characters. The dynamics between your characters can often form the narrative and emotional core of the stories told with this system. To represent some aspects of the party dynamic you are able to define your Relationship to each of the other characters in your party at character creation. These Relationships give niche mechanical abilities but are also a narrative tool for yourself and the other Players to help advance the story  of the game.  
-### Acquiring Relationships
-During the character creation process you will ideally be speaking to the other Players and the Dealer about the kind of game you wish to play and the character you wish to inhabit within that game. Once each of you has a rough idea of the type of character you are building you can each choose to define your relationship to one another. When you do so select a relationship from the list below. The relationship you select is what the other character is for you. For example, should you choose Boss, you are defining the other character as your character’s boss in some capacity. Relationships may have a prerequisite, this will define what Relationship the other Player must choose for your character in order for your selection to be valid. Once you have made your choice make sure to discuss the specifics of the Relationship with the Dealer and the other Player. Guidance on what questions to answer are provided in the description of each Relationship, but the depth and breadth of the questions you answer are up to yourself and the other Player.
-
-
-
-### Relationship Options
-
-#### Bodyguard -  
-**Prerequisite(s):** Boss  
-**Description:**    
-This character is your bodyguard. They have devoted themself, or a part of themself, to protecting you. Discuss with the Dealer and the other Player why and how they have come into your service, and where their loyalty may end.  
-**Feature:**  
-When taking the Guard Action while within 1 unit of your bodyguard, you may use their Guard Refresh in place of your own. In addition, when making a surprise test if your bodyguard is within 1 unit of you you may use their attributes in place of your own.  
-
-#### Boss -  
-**Prerequisite(s):** Bodyguard or Employee  
-**Description:**  
-This character is your boss. They may have hired you or acquired your services in other ways. Regardless, you are in their employ and serve them dutifully. Discuss with the Dealer and the other Player how you came into their service and why.  
-**Feature:**   
-    Whenever you are able to spend Clout if your boss is within 5 units of you they may spend their Clout in place of your own. You may not divide the cost between you.  
-
-#### Childhood Friend -  
-**Prerequisite(s):** Childhood Friend  
-**Description:**  
-You and this character go way back. Perhaps you separated long ago and are just now reuniting, or you never left their side. Regardless, you know them well and you trust each other strongly. Speak to the Dealer and the other Player about what you may know about each other.
-**Feature:**  
-When your childhood friend takes the Trade Action on a Breather you may also Trade a card with their target at no cost.  
-
-#### Employee -  
-**Prerequisite(s):** Boss  
-**Description:**  
-This character is your employee. The exact capacity in which they serve you can be broad or incredibly narrow. You should discuss with the Dealer and the other Player how and why they serve you and the extent of their duties.  
-**Feature:**  
-Whenever your employee succeeds on a Test by spending Clout or Reserve while within 5 units of you, you gain 1 Clout.  
-
-#### Enemy -  
-**Prerequisite(s):** None  
-**Description:**  
-In the past this character has done something awful to you. Perhaps they commited a crime at your expense or they hurt you in a personal way. Whatever the case make sure to discuss the specifics with the Dealer and the other Player, and make sure that there is ample reason for you two to cooperate on this adventure.  
-**Feature:**  
-Whenever your enemy makes a Surprise Test you may look at the top Card of the Deck before the Test occurs. You may then move it to the bottom of the Deck. If your enemy fails a Test they lose one Clout and you gain one Clout.  
-
-#### Idol -  
-**Prerequisite(s):** None  
-**Description:**   
-This character has done something in the past to earn your admiration. In your eyes they can do no wrong. Perhaps you see them as a powerful hero or you have unrequited feelings for them. Speak to the other Player and the Dealer about what they may have done to earn this admiration and how they feel about how you view them.   
-**Feature:**   
-Whenever your idol Plays a Card and you are within 5 units of them you may spend Clout equal to the Card's Value. If you do so the Card is put into your Hand rather than the top of the Pile.  
-
-#### Lover -  
-**Prerequisite(s):** Lover  
-**Description:**   
-You are infatuated with this character. You are either in a relationship with them or have some other romantic entanglement with them. There may be other competitors for their affection but you are (at the moment) the winner. Speak to the Dealer and the other Player about the specifics of your relationship as well as what you are comfortable role playing throughout the game.  
-**Feature:**   
-You and your lover share Clout. When determining your Clout pool you add each of your pools together. Whenever you spend, lose, or gain clout your lover loses or gains an equal amount.  
-
-#### Mentor -
-**Prerequisite(s):** Pupil or Idol  
-**Description:**  
-This character is your mentor. Perhaps they trained you in a skill you have, or are more of an emotional guide for you. Regardless, you look to them for guidance before anyone else in the party. Discuss with the Dealer and the other Player in what way they mentor you and how you met.  
-**Feature:**   
-Whenever you Trade with your Mentor during a Breather you may draw a card if they have more Cards in Hand than you.  
-
-#### Pupil -  
-**Prerequisite(s):** Mentor  
-**Description:**   
-This character is your pupil. You have either trained or guided them in some meaningful way. However, you may learn more from them than they do from you. Discuss with the Dealer and the other Player what you have taught them and why you have chosen to be their mentor.  
-**Feature:** 
-Whenever you Trade with your Pupil during a Breather you may draw a card if you do not have more Cards in Hand than them.  
-
-#### Relative -
-**Prerequisite(s):** Relative  
-**Description:**  
-You and this character are related. They may be an uncle, cousin, member of your nuclear family, or some other relative. Whatever your relation is exactly you are similar in many ways and have a strong innate connection. Discuss with the Dealer and the other Player any features, mannerisms, or other qualities you share because of this relationship.  
-**Feature:**  
-If you and your relative do not share the same Style you may use their Style rather than your own once per Rest. If you do share a Style with your relative you both must agree on a Style other than your own. You may each use it once per Rest in place of your own Style.  
-
-#### Rival -
-**Prerequisite(s):** None  
-**Description:**  
-You see this character as a rival in some way. Perhaps in love or combat. Regardless of the source you now see any chance to compete as a way to catch up to them. This can be a friendly rivalry or more toxic, discuss with the Dealer and other Player the specifics of how this rivalry began and how it manifests.  
-**Feature:**   
-Whenever your rival takes an Action and you immediately take the same Action you gain a +1 bonus to any Tests involved or any numerical effects of that action. For example if your rival takes the Guard Action and then you immediately take the same Action you gain 1 additional Guard than your normal amount. If the Action was a Test and you fail you lose Clout equal to your rival's Charm (minimum of 1).  
-
-#### Stranger -
-**Prerequisite(s):** None  
-**Description:**   
-You do not know this character yet. At a later point in the game if you, the other Player, and the Dealer feel it is appropriate you may update this Relationship to something more appropriate once your characters are acquainted.  
-**Feature:**   
-Whenever you Trade with a stranger during a Breather you may either Trade an additional card each or regain 1 Clout and 1 Reserve.  
-
-#### Suspect -  
-**Prerequisite(s):** None  
-**Description:** 
-Something about this character has piqued your interest, and not in a good way. While you don't have any hostility towards them yet you have some reason to believe they are hiding something. Speak to the Dealer and other Player about what you do and don't know about their character, and have the other Player and Dealer confer about what the truth is. If later in the game you feel your suspicions have been confirmed or denied you may switch this relationship to another relationship as deemed appropriate by the Dealer and yourself.   
-**Feature:**  
-Whenever your suspect Discards a Card and you are within 5 units of them you may spend Clout or Reserve equal to the Card's Value. If you do so the Card is put into your Hand rather than the Void.  
-
-#### Victim -  
-**Prerequisite(s):** None  
-**Description:**  
-You have done something to this character in the past. Something which hurt them. Perhaps you feel remorse, or perhaps you revel in their suffering. Whatever the case you should discuss with the Dealer and the other Player what exactly you have done to them, whether or not they are aware of it, and why you choose to adventure with each other.  
-**Feature:**  
-Whenever your victim takes the Trade action with a character other than yourself during a Breather you may use your Action to expand on their story. When you do so if you spend an amount of Clout equal to the Value of the Card your victim trades away you may then Draw a Card.  
 
 
 
 
-## Inventory
+
+### Inventory
 The character you play will be in part defined by the items they carry with them. Perhaps you have a family heirloom, a cursed blade, or a trusty handkerchief you carry with you. Whatever the case, the items you begin the game with and gain along your journey are as important as the Features and Attributes of your character.
 While your Reserve represents all of the minutiae of life as an adventurer that would be cumbersome to track manually, your Inventory is made up of specific items which will be used either often or in moments too impactful to rely on Reserve for. Inventory is made up of two kinds of items: Equipment and Key Items.
 
-### Equipment
+#### Equipment
 Weapons, Armor, and specialized gear worn on the body all fall under the category of Equipment. Your character has ten equipment slots and two hands by default in which to equip Equipment. Each piece of Equipment will list in its description onto which Equipment slots it must be equipped. Each equipment slot is referred to by a number and corresponds to a part of your character’s body on which the equipment is worn or carried. All of the Equipment available is listed in Appendix B.
 
 **1 - Head**  
@@ -607,13 +610,13 @@ Weapons, Armor, and specialized gear worn on the body all fall under the categor
 **10 - Feet**  
     Typical Equipment: Boots, Sabatons, Socks  
 
-### Hands
+#### Hands
 The default number of hands for a character to possess is two. You may gain or lose hands as the game progresses. Hands are used to hold and wield things. Usually in combat you will be holding weapons, a shield, or keeping your hands free for the use of certain Features. Weapons, Shields, and certain Key Items will list in their descriptions how many hands are required to wield them effectively to gain their benefits. However, any of these items can be held in a single hand if necessary. You must track at all times what items you are wielding in your Hands.
 
-### Equipment Tags
+#### Equipment Tags
 Equipment can have tags, much like Features. These tags most often do not carry inherent meaning, but some come with specific mechanical rules attached to the piece of Equipment. Weapon tags have a variety of meanings, as listed below.
 
-#### Weapons:
+##### Weapons:
 **Ammunition:** In order to make an Attack with this weapon you must expend 1 Reserve.  
 
 **Machine:** You may not add your Might to the damage of this weapon, even if the Card you Play is within the Value range of the weapon.  
@@ -628,10 +631,10 @@ Equipment can have tags, much like Features. These tags most often do not carry 
 
 **Unwieldy:** In order to Attack with this weapon you must play two Cards, using the Value of only the greater.  
 
-### Key Items
+#### Key Items
 Any item which is notable enough to mark on your character sheet but does not fall under the category of Equipment is a Key Item. These items may be purely utilitarian in nature, or they may serve a purpose within the narrative of the game. Key Items may also be used as Equipment if they serve both functions. For instance, if you are wearing armor which has been passed down as a family heirloom it may also be counted as a Key Item. Key Items can be made via the use of certain Features such as Basic Craft. When a Key Item has an ability or use it is noted in the description of that item. Aside from the Key Items created by Features all Key Items exist at the discretion of the Dealer. The line between items represented by Reserve and items which should be noted separately can and should change based on the tone and play style of your play group.
 
-### Obtaining Items
+#### Obtaining Items
 Unlike most other parts of your character, you do not obtain more items purely through the mechanics of the game. Throughout your journeys you may not gain any additional items at all. Dealers may reward characters with Key Items if they so choose.
 
 **Signature Ability:** Certain Signature Abilities will grant you pieces of equipment or a choice of pieces of equipment.
