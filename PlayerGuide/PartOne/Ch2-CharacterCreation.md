@@ -290,109 +290,100 @@ After determining your character’s Attributes you may select their Style from 
 ### Relationships
 Your character does not exist on their own; _DYW_  is played as part of a party of characters. The dynamics between your characters can often form the narrative and emotional core of the stories told with this system. To represent some aspects of the party dynamic you are able to define your Relationship to each of the other characters in your party at character creation. These Relationships give niche mechanical abilities but are also a narrative tool for yourself and the other Players to help advance the story  of the game.  
 #### Acquiring Relationships
-During the character creation process you will ideally be speaking to the other Players and the Dealer about the kind of game you wish to play and the character you wish to inhabit within that game. Once each of you has a rough idea of the type of character you are building you can each choose to define your relationship to one another. When you do so select a relationship from the list below. The relationship you select is what the other character is for you. For example, should you choose Boss, you are defining the other character as your character’s boss in some capacity. Relationships may have a prerequisite, this will define what Relationship the other Player must choose for your character in order for your selection to be valid. Once you have made your choice make sure to discuss the specifics of the Relationship with the Dealer and the other Player. Guidance on what questions to answer are provided in the description of each Relationship, but the depth and breadth of the questions you answer are up to yourself and the other Player.
+During the character creation process you will ideally be speaking to the other Players and the Dealer about the kind of game you wish to play and the character you wish to inhabit within that game. Once each of you has a rough idea of the type of character you are building you can each choose to define your relationship to one another. When you do so select a relationship from the list below. The relationship you select is given to yourself and another Player who agrees to the relationship. Each relationship grants a Feature to your character. Some relationships grant a different Feature to each person in the relationship, based on their position within that relationship. In this case, you and the Player who have this relationship must agree on who holds each part of the relationship, and gain the corresponding Feature. For instance, Bodyguard/VIP requires one player to take on the role of the Bodyguard and the other to hold the position of the VIP. Once you have made your choice make sure to discuss the specifics of the Relationship with the Dealer and the other Player. Guidance on what questions to answer are provided in the description of each Relationship, but the depth and breadth of the questions you answer are up to yourself and the other Player.
 
 
 
 #### Relationship Options
 
-#### Bodyguard -  
-**Prerequisite(s):** Boss  
-**Description:**    
-This character is your bodyguard. They have devoted themself, or a part of themself, to protecting you. Discuss with the Dealer and the other Player why and how they have come into your service, and where their loyalty may end.  
-**Feature:**  
+**Bodyguard/VIP**  -  
+__*Description:*__    
+One of the two of you is important. So important, in fact, that the other is willing to put their own safety at risk to protect them. This importance may be personal, professional, or begrudging. Decide amongst yourselves which of you is the bodygaurd, the person willing to go into harms way, and which of you is the VIP, the person who needs protection.
+Discuss with your counterpart and the Dealer why the VIP needs protection and why the bodyguard is willing to do it.   
+__*(Bodyguard) Feature:*__  
+When taking the Guard or Move Action while within 1 unit of your VIP, you may use 1 Speed to swap positions with them. Doing so does not trigger any Features or effects normally triggered by either of you moving unless you wish it to.  
+__*(VIP) Feature:*__  
 When taking the Guard Action while within 1 unit of your bodyguard, you may use their Guard Refresh in place of your own. In addition, when making a surprise test if your bodyguard is within 1 unit of you you may use their attributes in place of your own.  
 
-#### Boss -  
-**Prerequisite(s):** Bodyguard or Employee  
-**Description:**  
-This character is your boss. They may have hired you or acquired your services in other ways. Regardless, you are in their employ and serve them dutifully. Discuss with the Dealer and the other Player how you came into their service and why.  
-**Feature:**   
-    Whenever you are able to spend Clout if your boss is within 5 units of you they may spend their Clout in place of your own. You may not divide the cost between you.  
 
-#### Childhood Friend -  
-**Prerequisite(s):** Childhood Friend  
-**Description:**  
+**Boss/Minion** -  
+__*Description:*__  
+No great mind accomplishes anything without loyal followers. When selecting this relationsihp you and your counterpart must decide which of you calls the shots. The Player who selects the boss Feature is the leader, commander, or some other authority figure of the Player who selected the minion Feature.  
+After selecting the boss and minion desicuss with the other Player and the Dealer why the minion follows the boss and how respectful the command structure is between the two of you.   
+__*(Boss) Feature:*__  
+Whenever your minion succeeds on a Test by spending Clout or Reserve while within 5 units of you, you gain Clout equal to their level.  
+__*(Minion) Feature:*__   
+Whenever you are able to spend Clout while your boss or another minion of your boss is within 5 units of you they may spend their Clout in place of your own. You may not divide the cost between you.  
+
+**Friends** -  
+__*Description:*__  
+You and this character get along well. You care for each other and have an interest in each other's success. Speak with the Dealer and other Player about the specifics of your bond and what attracted you to each other.  
+__*Feature:*__  
+When your buddy is in peril you can call upon the power of friendship to aid you in battle. While in combat if your buddy falls to below half of their maximum HP while you can see or hear them you may immediately move to the next space in Initiative and Draw a Card. You may only do this once per combat.
+
+**Childhood Friends** -   
+__*Description:*__  
 You and this character go way back. Perhaps you separated long ago and are just now reuniting, or you never left their side. Regardless, you know them well and you trust each other strongly. Speak to the Dealer and the other Player about what you may know about each other.
-**Feature:**  
+__*Feature:*__  
 When your childhood friend takes the Trade Action on a Breather you may also Trade a card with their target at no cost.  
 
-#### Employee -  
-**Prerequisite(s):** Boss  
-**Description:**  
-This character is your employee. The exact capacity in which they serve you can be broad or incredibly narrow. You should discuss with the Dealer and the other Player how and why they serve you and the extent of their duties.  
-**Feature:**  
-Whenever your employee succeeds on a Test by spending Clout or Reserve while within 5 units of you, you gain 1 Clout.  
-
-#### Enemy -  
-**Prerequisite(s):** None  
-**Description:**  
+**Enemies** -    
+__*Description:*__  
 In the past this character has done something awful to you. Perhaps they commited a crime at your expense or they hurt you in a personal way. Whatever the case make sure to discuss the specifics with the Dealer and the other Player, and make sure that there is ample reason for you two to cooperate on this adventure.  
-**Feature:**  
+__*Feature:*__  
 Whenever your enemy makes a Surprise Test you may look at the top Card of the Deck before the Test occurs. You may then move it to the bottom of the Deck. If your enemy fails a Test they lose one Clout and you gain one Clout.  
-
-#### Idol -  
-**Prerequisite(s):** None  
-**Description:**   
-This character has done something in the past to earn your admiration. In your eyes they can do no wrong. Perhaps you see them as a powerful hero or you have unrequited feelings for them. Speak to the other Player and the Dealer about what they may have done to earn this admiration and how they feel about how you view them.   
-**Feature:**   
-Whenever your idol Plays a Card and you are within 5 units of them you may spend Clout equal to the Card's Value. If you do so the Card is put into your Hand rather than the top of the Pile.  
-
-#### Lover -  
-**Prerequisite(s):** Lover  
-**Description:**   
-You are infatuated with this character. You are either in a relationship with them or have some other romantic entanglement with them. There may be other competitors for their affection but you are (at the moment) the winner. Speak to the Dealer and the other Player about the specifics of your relationship as well as what you are comfortable role playing throughout the game.  
-**Feature:**   
+ 
+**Lovers** -    
+__*Description:*__   
+You are infatuated with this character. You are either in a relationship with them or have some other romantic entanglement with them. There may be other competitors for their affection but you are (at the moment) the winner (as far as you know). Speak to the Dealer and the other Player about the specifics of your relationship as well as what you are comfortable role playing throughout the game.  
+__*Feature:*__   
 You and your lover share Clout. When determining your Clout pool you add each of your pools together. Whenever you spend, lose, or gain clout your lover loses or gains an equal amount.  
 
-#### Mentor -
-**Prerequisite(s):** Pupil or Idol  
-**Description:**  
-This character is your mentor. Perhaps they trained you in a skill you have, or are more of an emotional guide for you. Regardless, you look to them for guidance before anyone else in the party. Discuss with the Dealer and the other Player in what way they mentor you and how you met.  
-**Feature:**   
-Whenever you Trade with your Mentor during a Breather you may draw a card if they have more Cards in Hand than you.  
+**Mentor/Pupil** -   
+__*Description:*__  
+This character is your mentor. Perhaps they trained you in a skill you have, or are more of an emotional guide for you. Regardless, you look to them for guidance before anyone else in the party. Decide with the other Player which of you is the Mentor and which of you is the Pupil. You then receive the corresponding Feature.  
+Discuss with the Dealer and the other Player in what way they mentor you and how you met.  
+__*(Pupil) Feature:*__   
+Whenever you Trade with your Mentor during a Breather you may draw a card if the number of Cards in their Hand is greater than yours.  
+__*(Mentor) Feature:*__   
+Whenever you Trade with your Pupil during a Breather you may draw a card if the number of Cards in your Hand is less than or equal to theirs.  
 
-#### Pupil -  
-**Prerequisite(s):** Mentor  
-**Description:**   
-This character is your pupil. You have either trained or guided them in some meaningful way. However, you may learn more from them than they do from you. Discuss with the Dealer and the other Player what you have taught them and why you have chosen to be their mentor.  
-**Feature:** 
-Whenever you Trade with your Pupil during a Breather you may draw a card if you do not have more Cards in Hand than them.  
+**Fan/Idol** -  
+__*Description:*__  
+One of you has achieved a level of fame which means some people, including the other character, are fans of yours. This creates a dynamic in your relationship where the fan idolizes the other character. When you select this relationship decide with the other Player which of you is the Fan and which is the Idol. You then each receive the corresponding Feature.  
+__*(Idol) Feature:*__  
+Whenever you succeed on a Test by expending Cloud or Reserve while within 5 units of your fan you may gain Clout equal to their level. The amount of Clout you gain may not be greater than the amount of Clout or Reserve spent.  
+__*(Fan) Feature:*__   
+Whenever your idol Plays a Card and you are within 5 units of them you may spend Clout equal to the Card's Value. If you do so the Card is put into your Hand rather than the top of the Pile.  
 
-#### Relative -
-**Prerequisite(s):** Relative  
-**Description:**  
-You and this character are related. They may be an uncle, cousin, member of your nuclear family, or some other relative. Whatever your relation is exactly you are similar in many ways and have a strong innate connection. Discuss with the Dealer and the other Player any features, mannerisms, or other qualities you share because of this relationship.  
-**Feature:**  
+**Relatives** -  
+__*Description:*__  
+You and this character are related. They may be an uncle, cousin, member of your nuclear family, or some other relative. Whatever your relation is exactly you are similar in many ways and have a strong innate connection.  
+Discuss with the Dealer and the other Player any features, mannerisms, or other qualities you share because of this relationship.  
+__*Feature:*__  
 If you and your relative do not share the same Style you may use their Style rather than your own once per Rest. If you do share a Style with your relative you both must agree on a Style other than your own. You may each use it once per Rest in place of your own Style.  
 
-#### Rival -
-**Prerequisite(s):** None  
-**Description:**  
-You see this character as a rival in some way. Perhaps in love or combat. Regardless of the source you now see any chance to compete as a way to catch up to them. This can be a friendly rivalry or more toxic, discuss with the Dealer and other Player the specifics of how this rivalry began and how it manifests.  
-**Feature:**   
+**Rivals** - 
+__*Description:*__  
+You see this character as a rival in some way. Perhaps in love or combat. Regardless of the source you now see any chance to compete as a way to catch up to them.  
+This can be a friendly rivalry or more toxic, discuss with the Dealer and other Player the specifics of how this rivalry began and how it manifests.  
+__*Feature:*__   
 Whenever your rival takes an Action and you immediately take the same Action you gain a +1 bonus to any Tests involved or any numerical effects of that action. For example if your rival takes the Guard Action and then you immediately take the same Action you gain 1 additional Guard than your normal amount. If the Action was a Test and you fail you lose Clout equal to your rival's Charm (minimum of 1).  
 
-#### Stranger -
-**Prerequisite(s):** None  
-**Description:**   
+**Strangers** -  
+__*Description:*__   
 You do not know this character yet. At a later point in the game if you, the other Player, and the Dealer feel it is appropriate you may update this Relationship to something more appropriate once your characters are acquainted.  
-**Feature:**   
+__*Feature:*__   
 Whenever you Trade with a stranger during a Breather you may either Trade an additional card each or regain 1 Clout and 1 Reserve.  
 
-#### Suspect -  
-**Prerequisite(s):** None  
+**Detective/Suspect** -    
 **Description:** 
-Something about this character has piqued your interest, and not in a good way. While you don't have any hostility towards them yet you have some reason to believe they are hiding something. Speak to the Dealer and other Player about what you do and don't know about their character, and have the other Player and Dealer confer about what the truth is. If later in the game you feel your suspicions have been confirmed or denied you may switch this relationship to another relationship as deemed appropriate by the Dealer and yourself.   
-**Feature:**  
-Whenever your suspect Discards a Card and you are within 5 units of them you may spend Clout or Reserve equal to the Card's Value. If you do so the Card is put into your Hand rather than the Void.  
-
-#### Victim -  
-**Prerequisite(s):** None  
-**Description:**  
-You have done something to this character in the past. Something which hurt them. Perhaps you feel remorse, or perhaps you revel in their suffering. Whatever the case you should discuss with the Dealer and the other Player what exactly you have done to them, whether or not they are aware of it, and why you choose to adventure with each other.  
-**Feature:**  
-Whenever your victim takes the Trade action with a character other than yourself during a Breather you may use your Action to expand on their story. When you do so if you spend an amount of Clout equal to the Value of the Card your victim trades away you may then Draw a Card.  
+One of these two characters is supsicious of the other. They have reason to suspect that their quarry has commited some heinous act, but are not certain yet. When you choose this relationship each of you must choose whether you are the suspect or the detective, and then gain the corresponding Feature.  
+Speak to the Dealer and other Player about what you do and don't know about their character, and have the other Player and Dealer confer about what the truth is. If later in the game you feel your suspicions have been confirmed or denied you may switch this relationship to another relationship as deemed appropriate by the Dealer and yourself.   
+__*(Detective) Feature:*__  
+Whenever your suspect Discards a Card and you are within 5 units of them you may spend Clout or Reserve equal to the Card's Value. If you do so the Card is put into your Hand rather than the Void.    
+__*(Suspect) Feature:*__  
+Whenever your Detective and you take the Trade Action during a Breather you may obscure the Card which you Trade. When you do this you must choose the Card you Trade randomly from your Hand rather than choosing it yourself. After the Trade is complete you may then Draw a Card.
 
 ### Attributes
 As a Player Character in _Draw Your Weapon_ your ability to perform certain kinds of actions are defined by certain Attributes your character has. These Attributes roughly determine your affinity and skill with certain types of actions. The five Attributes are Might, Endurance, Finesse, Intelligence, Wits, and Charm. For Player Characters these abilities may not be lower than 0 (slightly below average for a normal person) or higher than 5 (beyond the peak of an ordinary person).
@@ -409,7 +400,7 @@ In order to determine your Player Character’s Attributes at level 1 you spend 
 **Might**
 A Player Character’s physical strength is represented by their Might Score. The ability to lift and carry objects, the strength of their weapon strikes, and contests of power are all often resolved by referencing a character’s Might. Might is most often associated with Clubs and Spades.
 
-__**Guard**__ 
+__*Guard*__ 
 Guard is the Stat linked to Might. It represents your ability to react to attacks and take damage without getting hurt. Guard is made up of three Values: Current Guard, Guard Refresh, and Maximum Guard.
 Whenever you take damage from a source with no tags or a weapon you take the damage to your Current Guard before it applies to your HP. If your Current Guard is reduced to 0 you gain the Broken Condition. Guard Refresh represents how much Guard you gain when you take the Defend Action. Maximum Guard is the maximum amount your Current Guard can reach. If you would gain Guard and go above your Maximum you stop after reaching Maximum.
 Your Current Guard begins at 0. Your Guard Refresh is defined as 1+(Level Bonus)+(Other Bonuses). Your Maximum Guard begins at 5+(Your Might*Your Level)+(Other Bonuses).
@@ -417,35 +408,35 @@ Your Current Guard begins at 0. Your Guard Refresh is defined as 1+(Level Bonus)
 **Endurance**
 Endurance measures a Player Character’s health and wellbeing. The constitution, stamina, and grit of a character relies on their Endurance Score. Endurance is most often associated with Clubs and Hearts.
 
-__**HP**__
+__*HP*__
 HP is the Stat linked with Endurance. It represents the amount of damage your character can withstand before collapsing. HP is a resource which can be lost and gained throughout playing _DYW_. You gain no innate benefits from having it and there are no penalties when losing it until you reach 0. When you run out of HP your character will begin to die. This process is outlined in the Combat chapter. You cannot go above your Maximum HP.  
 Your maximum HP is defined at 5+(Your Endurance*Your Level)+(Level Bonus)+(Other Bonuses). You begin play with Current HP equal to your Maximum.
 
 **Finesse**
 A character’s dexterity, speed, and fine motor control are all represented by their Finesse score. Finesse is most often used in reference to checks regarding balancing, using tools, operating vehicles, or feats of acrobatics. Finesse is most often associated with Spades and Diamonds.
 
-__**Speed**__
+__*Speed*__
 Speed is the Stat linked to Finesse. Speed defines not only your ability to move but also your ability to quickly execute tasks while under pressure. Whenever you move in combat you consume Speed. Moving 1 unit, drawing a weapon, and executing a simple task while in combat all consume 1 Speed. Much like Guard and HP you cannot go above your Maximum Speed.  
 Your Speed is defined as 5+(Your Finesse)+(Other Bonuses)+(Level Bonus). At Level 1 your Level Bonus is 0 and is further explained in Chapter 3.
 
 **Wits**
 The Wits score of a Player Character is representative of their ability to read a situation, adapt well under pressure, and understand complex social dynamics. Wits is most often used to resolve interactions regarding reading the intent of another person, solving puzzles, or perceiving dangerous surroundings. This Score is most often associated with Spades and Hearts.
 
-__**Max Hand Size**__
+__*Max Hand Size*__
 Max Hand Size is the Stat linked with Wits. It is a representation of your ability to collect and utilize whatever situation you find yourself in to your advantage.  Your Max Hand Size impacts only the maximum number of Cards you may have in your Hand at any given time. The details of this are covered in Chapter 4.  
 Your Max Hand Size is defined as 5+(Your Wits)+(Level Bonus). At Level 1 your Level Bonus is 0 and is further explained in Chapter 3.
 
 **Intelligence**
 Intelligence is a representation of your Player Character’s learned knowledge, ability to piece together information, and confidently put their knowledge to use. This Attribute is most often used to determine a character’s ability to apply knowledge they have, recall information, and do research. This Score is most often associated with Clubs  and Diamonds.
 
-__**Reserve**__
+__*Reserve*__
 Reserve is the Stat linked with Intelligence. It is a representation of how prepared your character is for any situation. Whenever a situation calls for equipment or strategic forethought that your character does not explicitly have the ability to accomplish you may expend Reserve to make up that deficit. Whenever you make a Test involving a situation wherein your situation would be made possible or easier by having certain equipment or a specific plan in place beforehand you may expend Reserve to lower the Target by an amount equal to the amount spent. At the discretion of the Dealer you may also expend Reserve to complete Tests without Playing a Card or to accomplish simple tasks which require certain equipment. The expenditure of Reserve represents your character running low on expendable resources and plans, while at 0 Reserve you may find that your character fails to produce items which you otherwise take for granted such as torches or food. As with the other Stats which are used as a resource you may not exceed your Reserve’s maximum.
 Your Reserve is defined as 5+(Your Intelligence*Your Level)+(Level Bonus)+(Other Bonuses). You begin the game with all of your Reserve.
 
 **Charm**
 A character who can speak well, collect their thoughts effectively, and inspire others will have a correspondingly high Charm. Charm is most often used in the resolution of tests involving deceiving another person, inspiring another person, or persuading someone. Charm is most often associated with Diamonds and Hearts.
 
-__**Clout**__
+__*Clout*__
 Clout is the Stat linked with Charm. It is a representation of your social pull. Unlike the other Stats this value may fluctuate frequently based on the location around you. As such, the value on your character sheet should be assumed as a default rather than the definitive value. Clout acts similarly to Reserve, but serves a different function. Clout may be used to lower the Target of a Test in the same way as Reserve, however the Test must involve some form of social manipulation or understanding. Where Reserve may be used to produce a rope to climb a wall, Clout may be used to convince a passing guardsman there is no reason to be suspicious. The expenditure of Clout indicates that those around you may be growing impatient, distrustful, or hurt by your actions and should be expended carefully. As with the other Stats which are used as a resource you may not exceed your Clout’s maximum.
 Your Clout is defined as 5+(Your Charm*Your Level)+(Level Bonus)+(Other Bonuses)+(Any Modifiers From The Dealer). You begin the game with all of your Clout.
 
