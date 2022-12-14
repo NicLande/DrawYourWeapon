@@ -58,7 +58,7 @@ Features: Sky Affinity; Aeromancy Novice
 **5th Level:**  
     _Features:_ Sky Mastery  
 **7th Level:**   
-    _Features:_ Aeromancy Master 
+    _Features:_ Aeromancy Master  
 **10th Level:**  
     _Features:_ Storm Supremacy  
 **14th Level:**  
