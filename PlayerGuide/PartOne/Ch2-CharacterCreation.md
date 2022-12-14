@@ -18,7 +18,7 @@ After your group has decided when and where to play and who will be the Dealer y
 
 **Build:** You begin the character creation process with 12 Build, which is used as a currency in order to create your character. Build is spent on your Attributes, Features, and Equipment with any leftover being converted into Experience at the end of the process.
 
-**Attributes:** The first step of spending your Build is to define your character's attributes. These are six values which shape the basic abilities of your character. Each starts at 0; in order to upgrade them you must cumulatively spend Build equal to the value of the value you wish to upgrade it to. Once your Attributes have been decided you may not each in the appropriate space within the attributes & stats section of your character sheet. In addition, you may fill in the appropriate value for the derived stat as detailed later in this chapter.
+**Attributes:** The first step of spending your Build is to define your character's attributes. These are six values which shape the basic abilities of your character. Each starts at 0; in order to upgrade them you must cumulatively spend Build equal to the value of the value you wish to upgrade it to. The maximum value an attribute can reach is 5, which is not possible to achieve through character creation and must be acquired at a later level. Once your Attributes have been decided you may not each in the appropriate space within the attributes & stats section of your character sheet. In addition, you may fill in the appropriate value for the derived stat as detailed later in this chapter.
 
 | Value | Build Cost |
 |-------|------------|
