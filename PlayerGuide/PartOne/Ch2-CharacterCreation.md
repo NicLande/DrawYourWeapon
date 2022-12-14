@@ -58,7 +58,7 @@ Features: Sky Affinity; Aeromancy Novice
 **5th Level:**  
     _Features:_ Sky Mastery  
 **7th Level:**   
-    _Features:_ Aeromancy Master 
+    _Features:_ Aeromancy Master  
 **10th Level:**  
     _Features:_ Storm Supremacy  
 **14th Level:**  
@@ -327,7 +327,7 @@ When your buddy is in peril you can call upon the power of friendship to aid you
 
 **Childhood Friends** -   
 __*Description:*__  
-You and this character go way back. Perhaps you separated long ago and are just now reuniting, or you never left their side. Regardless, you know them well and you trust each other strongly. Speak to the Dealer and the other Player about what you may know about each other.
+You and this character go way back. Perhaps you separated long ago and are just now reuniting, or you never left their side. Regardless, you know them well and you trust each other strongly. Speak to the Dealer and the other Player about what you may know about each other.  
 __*Feature:*__  
 When your childhood friend takes the Trade Action on a Breather you may also Trade a card with their target at no cost.  
 
