@@ -4,17 +4,21 @@
 ### Guide
 After your group has decided when and where to play and who will be the Dealer you all must work together to create a party of characters to adventure together. This process should be collaborative, with many aspects involving input from the rest of the table, but your character is yours to mold and shape. You make the decisions on how they are built and what their path will be. In order to create your character you will select several aspects of them from lists and others will be purchased with Build. At the end of this chapter you should have the full understanding of all the aspects which go into creating a character in _DYW_.
 
-**Character Concept**
+**Character Concept** The first step to creating your character is deciding on an overall concept. This concept will define what choices you make going through the process. Perhaps you wish to master the blade and focus on making choices which enhance your ability to wield bladed weapons. Maybe you want to play a mage who commands the very elements themselves. It may even be that you wish to play a character who avoids combat in favor of supporting the rest of the party through social skills or medicine. Regardless of your choice, communicate with the others at the table to ensure that you are creating a well rounded and dynamic party. 
 
-**Signature Ability:** Next comes your character’s Signature Ability. This is a central pillar of your character and grants them several free Features, Equipment, and other benefits as they gain Levels. This costs no Build.
+**Name** In addition to an overall concept which defines your character you will need to name the person you play as. The name of a character is not important for their abilities and features, however it can help define and communicate their personality. When you have decided upon a name write it down in the name section of the character sheet.
 
-**Style:** After you determine your Attributes you must select your character’s Style from a list. This is the most apparent character trait of your character and determines how you will primarily Draw Cards. This costs no Build.
+**Appearance** Similarly to their name, a character's appearance has no bearing on their abilities. However, you and the rest of the party should be aware of the basic appearance of the characters you are playing with, as it may affect the story. If you are artistically inclined you may draw some notable aspects of your character on the figure on the character sheet.
 
-**Relationships:** With the basics of your character defined you can now define how they relate to the other characters being made at the table. Discuss with each other Player how your characters would know each other, if they do. This costs no Build.
+**Signature Ability:** Next comes your character’s Signature Ability. This is a central pillar of your character and grants them several free Features, Equipment, and other benefits as they gain Levels. This costs no Build. When you have selected your Signature Ability you may note down the name of your choice and a brief description in the Signature Ability section of your character sheet. The full text can be written in the Features Details section on the back side of the character sheet.
+
+**Style:** After you determine your Attributes you must select your character’s Style from a list. This is the most apparent character trait of your character and determines how you will primarily Draw Cards. This costs no Build. Once you have selected your Style you may write its name and description in the Style section of your character sheet.
+
+**Relationships:** With the basics of your character defined you can now define how they relate to the other characters being made at the table. Discuss with each other Player how your characters would know each other, if they do. This costs no Build. Each time you select a relationship you can note the character with whom you have a relation in the Character side of the Relationship List section of your character sheet, followed by the name of the relationship in the adjacent Relation side. The full description, as well as the story behind your relationship, in the Relationships Details section on the back of the character sheet.
 
 **Build:** You begin the character creation process with 12 Build, which is used as a currency in order to create your character. Build is spent on your Attributes, Features, and Equipment with any leftover being converted into Experience at the end of the process.
 
-**Attributes:** The first step of creating your character is to define their attributes. These are six values which shape the basic abilities of your character. Each starts at 0; in order to upgrade them you must cumulatively spend Build equal to the value of the value you wish to upgrade it to. 
+**Attributes:** The first step of spending your Build is to define your character's attributes. These are six values which shape the basic abilities of your character. Each starts at 0; in order to upgrade them you must cumulatively spend Build equal to the value of the value you wish to upgrade it to. Once your Attributes have been decided you may not each in the appropriate space within the attributes & stats section of your character sheet. In addition, you may fill in the appropriate value for the derived stat as detailed later in this chapter.
 
 | Value | Build Cost |
 |-------|------------|
@@ -25,9 +29,9 @@ After your group has decided when and where to play and who will be the Dealer y
 | 4 | 10 |
 | 5 | 15 |
 
-**Features:** After gaining your central Features from your Signature Ability you may spend Build on Features. These allow your character to perform a variety of Actions and grant many passive benefits. Their Build costs are listed in their descriptions. 
+**Features:** After gaining your central Features from your Signature Ability you may spend Build on additional Features. These allow your character to perform a variety of Actions and grant many passive benefits. Their Build costs are listed in their descriptions. Once you have selected a Feature you may add its name and tags to the Feature List section of your character sheet, and a full description to the Features Details section on the back of you character sheet.
 
-**Inventory:** The final step in creating a character is determining what items they carry on them. You may purchase Equipment in the same manner you purchased Features. The list of Equipment is located at the end of this book in Appendix B.
+**Inventory:** The final step in creating a character is determining what items they carry on them. You may purchase Equipment in the same manner you purchased Features. The list of Equipment is located at the end of this book in Appendix B. Note the stats of the item in Inventory section of your character sheet when you acquire an item. Whenever you equip an item you may add it to the section numbered to correspond to the location it is equipped to. 
 
 **Finish Up:** If you have any Build remaining at the end of the character creation process you may go back to earlier steps and spend it, or save it for later where it is converted into Experience to spend at a later time.
 

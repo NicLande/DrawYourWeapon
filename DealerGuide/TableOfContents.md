@@ -45,5 +45,7 @@
             * Using Features
         * Tags
         * On Defeat
+* [Part 4 - Sample Adventures](PartFour/Ch11-NoRestForTheWicked.md)
+    * No Rest For The Wicked
 * Appendices
     * A - Creature Lists
