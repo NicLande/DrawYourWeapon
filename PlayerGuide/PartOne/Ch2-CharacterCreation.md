@@ -401,14 +401,6 @@ In order to determine your Player Character’s Attributes at level 1 you spend 
 > #### Optional Rule: Negative Scores
 > In the exceptional case where to accurately represent a character you need a score which falls below 0. In this case, if your Dealer agrees, you may lower a score of your choice to -1 and gain one extra point to spend on your other Attributes. When a score has a value of -1 and that Attribute can be applied to a Test, Attack, or other form of Played Card rather than adding the Score if you Play a Card of a specific Suit you add the Score in the event that you fail to Play the Card of the associated Suit.
 
-**Might**
-A Player Character’s physical strength is represented by their Might Score. The ability to lift and carry objects, the strength of their weapon strikes, and contests of power are all often resolved by referencing a character’s Might. Might is most often associated with Clubs and Spades.
-
-__*Guard*__ 
-Guard is the Stat linked to Might. It represents your ability to react to attacks and take damage without getting hurt. Guard is made up of three Values: Current Guard, Guard Refresh, and Maximum Guard.
-Whenever you take damage from a source with no tags or a weapon you take the damage to your Current Guard before it applies to your HP. If your Current Guard is reduced to 0 you gain the Broken Condition. Guard Refresh represents how much Guard you gain when you take the Defend Action. Maximum Guard is the maximum amount your Current Guard can reach. If you would gain Guard and go above your Maximum you stop after reaching Maximum.
-Your Current Guard begins at 0. Your Guard Refresh is defined as 1+(Level Bonus)+(Other Bonuses). Your Maximum Guard begins at 5+(Your Might*Your Level)+(Other Bonuses).
-
 **Endurance**
 Endurance measures a Player Character’s health and wellbeing. The constitution, stamina, and grit of a character relies on their Endurance Score. Endurance is most often associated with Clubs and Hearts.
 
@@ -443,6 +435,14 @@ A character who can speak well, collect their thoughts effectively, and inspire 
 __*Clout*__
 Clout is the Stat linked with Charm. It is a representation of your social pull. Unlike the other Stats this value may fluctuate frequently based on the location around you. As such, the value on your character sheet should be assumed as a default rather than the definitive value. Clout acts similarly to Reserve, but serves a different function. Clout may be used to lower the Target of a Test in the same way as Reserve, however the Test must involve some form of social manipulation or understanding. Where Reserve may be used to produce a rope to climb a wall, Clout may be used to convince a passing guardsman there is no reason to be suspicious. The expenditure of Clout indicates that those around you may be growing impatient, distrustful, or hurt by your actions and should be expended carefully. As with the other Stats which are used as a resource you may not exceed your Clout’s maximum.
 Your Clout is defined as 5+(Your Charm*Your Level)+(Level Bonus)+(Other Bonuses)+(Any Modifiers From The Dealer). You begin the game with all of your Clout.
+
+**Might**
+A Player Character’s physical strength is represented by their Might Score. The ability to lift and carry objects, the strength of their weapon strikes, and contests of power are all often resolved by referencing a character’s Might. Might is most often associated with Clubs and Spades.
+
+__*Guard*__ 
+Guard is the Stat linked to Might. It represents your ability to react to attacks and take damage without getting hurt. Guard is made up of three Values: Current Guard, Guard Refresh, and Maximum Guard.
+Whenever you take damage from a source with no tags or a weapon you take the damage to your Current Guard before it applies to your HP. If your Current Guard is reduced to 0 you gain the Broken Condition. Guard Refresh represents how much Guard you gain when you take the Defend Action. Maximum Guard is the maximum amount your Current Guard can reach. If you would gain Guard and go above your Maximum you stop after reaching Maximum.
+Your Current Guard begins at 0. Your Guard Refresh is defined as 1+(Level Bonus)+(Other Bonuses). Your Maximum Guard begins at 5+(Your Might*Your Level)+(Other Bonuses).
 
 
 
