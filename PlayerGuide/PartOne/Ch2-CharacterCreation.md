@@ -18,16 +18,7 @@ After your group has decided when and where to play and who will be the Dealer y
 
 **Build:** You begin the character creation process with 12 Build, which is used as a currency in order to create your character. Build is spent on your Attributes, Features, and Equipment with any leftover being converted into Experience at the end of the process.
 
-**Attributes:** The first step of spending your Build is to define your character's attributes. These are six values which shape the basic abilities of your character. Each starts at 0; in order to upgrade them you must cumulatively spend Build equal to the value of the value you wish to upgrade it to. The maximum value an attribute can reach is 5, which is not possible to achieve through character creation and must be acquired at a later level. Once your Attributes have been decided you may not each in the appropriate space within the attributes & stats section of your character sheet. In addition, you may fill in the appropriate value for the derived stat as detailed later in this chapter.
-
-| Value | Build Cost |
-|-------|------------|
-| 0 | 0 |
-| 1 | 1 |
-| 2 | 3 |
-| 3 | 6 |
-| 4 | 10 |
-| 5 | 15 |
+**Attributes:** The first step of spending your Build is to define your character's attributes. These are six values which shape the basic abilities of your character. Once your Attributes have been decided you may not each in the appropriate space within the attributes & stats section of your character sheet. In addition, you may fill in the appropriate value for the derived stat as detailed later in this chapter.
 
 **Features:** After gaining your central Features from your Signature Ability you may spend Build on additional Features. These allow your character to perform a variety of Actions and grant many passive benefits. Their Build costs are listed in their descriptions. Once you have selected a Feature you may add its name and tags to the Feature List section of your character sheet, and a full description to the Features Details section on the back of you character sheet.
 
@@ -392,11 +383,20 @@ Whenever your Detective and you take the Trade Action during a Breather you may 
 ### Attributes
 As a Player Character in _Draw Your Weapon_ your ability to perform certain kinds of actions are defined by certain Attributes your character has. These Attributes roughly determine your affinity and skill with certain types of actions. The five Attributes are Might, Endurance, Finesse, Intelligence, Wits, and Charm. For Player Characters these abilities may not be lower than 0 (slightly below average for a normal person) or higher than 5 (beyond the peak of an ordinary person).
 
+| Value | Build Cost |
+|-------|------------|
+| 0 | 0 |
+| 1 | 1 |
+| 2 | 3 |
+| 3 | 6 |
+| 4 | 10 |
+| 5 | 15 |
+
 #### Derived Stats
 Each Attribute has a Stat linked to it which derives its value from the value of the attribute. Each of these has a function in the game and serves multiple functions. Each of these Stats basic function and value are explained along with their linked Attribute.
 
 #### Determining Attributes
-In order to determine your Player Character’s Attributes at level 1 you spend points and allocate them as you wish. You have 10 points to spend as you wish. Each Attribute begins at 0 and grows by 1 for each point spent. No Attribute may exceed 5.
+You must spend your Build points to increase your attributes. Each starts at 0; in order to upgrade them you must cumulatively spend Build equal to the value of the value you wish to upgrade it to. The maximum value an attribute can reach is 5, which is not possible to achieve through character creation and must be acquired at a later level.
 
 > #### Optional Rule: Negative Scores
 > In the exceptional case where to accurately represent a character you need a score which falls below 0. In this case, if your Dealer agrees, you may lower a score of your choice to -1 and gain one extra point to spend on your other Attributes. When a score has a value of -1 and that Attribute can be applied to a Test, Attack, or other form of Played Card rather than adding the Score if you Play a Card of a specific Suit you add the Score in the event that you fail to Play the Card of the associated Suit.
