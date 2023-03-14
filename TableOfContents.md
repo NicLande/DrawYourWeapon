@@ -1,7 +1,7 @@
 ## Table of Contents
 
 * Introduction
-* Chapter One - Character Creation
+* Chapter One - [Character Creation](Ch1CharCreation.md)
     * Character Creation Steps
     * Attributes
     * Resources and Ante
